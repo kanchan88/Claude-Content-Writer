@@ -1,0 +1,121 @@
+{
+  "research_date": "2026-03-14",
+  "competitors_analyzed": [
+    {
+      "name": "Jim Fan",
+      "linkedin_url": "https://www.linkedin.com/in/drjimfan/",
+      "headline": "NVIDIA Director of AI & Distinguished Scientist. Co-Lead of Project GR00T (Humanoid Robotics)",
+      "followers": "100K+",
+      "posting_frequency": "2-3 posts/week",
+      "content_strategy": "Technical research announcements (60%), robotics demos (30%), thought leadership (10%)",
+      "tone": "Technical depth made accessible, enthusiastic, research-narrative hybrid",
+      "high_performing_posts": [
+        {
+          "text_preview": "We trained a humanoid with 22-DoF dexterous hands to assemble model cars, operate syringes, sort poker cards...",
+          "likes": 2627,
+          "comments": 109,
+          "shares": 214,
+          "format": "video",
+          "hook_pattern": "Technical achievement + specific numbers",
+          "posted": "2026-02-25"
+        },
+        {
+          "text_preview": "What can half of GPT-1 do? We trained a 42M transformer called SONIC to control the body of a humanoid robot...",
+          "likes": 1720,
+          "comments": 75,
+          "shares": 141,
+          "format": "video",
+          "hook_pattern": "Provocative question + technical reveal",
+          "posted": "2026-02-24"
+        },
+        {
+          "text_preview": "GR00T N1 is the world's first open foundation model for generalist humanoid robots...",
+          "likes": 2386,
+          "comments": 0,
+          "shares": 0,
+          "format": "video",
+          "hook_pattern": "Superlative claim + open-source announcement",
+          "posted": "2025-12-17"
+        }
+      ],
+      "key_patterns": [
+        "Always leads with the most impressive result or number",
+        "Video content dramatically outperforms text-only",
+        "Open-source announcements drive massive engagement",
+        "Technical depth is accessible — explains the 'why' behind results",
+        "Strong use of bullet points and structured formatting",
+        "Always includes links to papers/code"
+      ]
+    },
+    {
+      "name": "Brian Norgard",
+      "linkedin_url": "https://www.linkedin.com/in/briannorgard/",
+      "headline": "Not accessible via scraper",
+      "content_strategy": "Concise, aphoristic, no-fluff takes on building and investing",
+      "tone": "Direct, specific, every word earns its place",
+      "note": "Profile was not accessible for scraping. Known for extremely concise posts on X/Twitter."
+    },
+    {
+      "name": "Leopold Aschenbrenner",
+      "linkedin_url": "Unknown",
+      "headline": "Former OpenAI, author of Situational Awareness, fund founder",
+      "content_strategy": "Thesis-driven long-form, primarily on X/Substack",
+      "tone": "Academic, urgent, policy-focused",
+      "note": "Not active on LinkedIn. Primary presence is X and long-form essays."
+    },
+    {
+      "name": "Dylan Patel / Semi-Analysis",
+      "linkedin_url": "https://www.linkedin.com/in/dylan-patel-a1814660/",
+      "headline": "Not accessible via scraper",
+      "content_strategy": "Newsletter-first distribution, data-heavy supply chain analysis",
+      "tone": "Technical, analytical, semiconductor-focused",
+      "note": "Profile not accessible for scraping. Known for Semi-Analysis newsletter and semiconductor research."
+    }
+  ],
+  "ojas_current_posts": [
+    {
+      "text_preview": "AI labs are spending billions on compute. Meanwhile, the data they actually need is locked inside private apps...",
+      "likes": 21,
+      "comments": 2,
+      "shares": 1,
+      "format": "carousel/document",
+      "hook_pattern": "Contrarian thesis about data > compute",
+      "posted": "2026-02-17",
+      "topic": "Data moats, Lindir positioning"
+    },
+    {
+      "text_preview": "99.3% success in simulation. Face-plant by step three on real concrete...",
+      "likes": 30,
+      "comments": 1,
+      "shares": 1,
+      "format": "text + article link",
+      "hook_pattern": "Dramatic contrast (sim vs real) + specific numbers",
+      "posted": "2026-01-13",
+      "topic": "Sim-to-real gap, robotics research"
+    },
+    {
+      "text_preview": "I just watched a pharma client turn a dead trade show into $2.4M in pipeline...",
+      "likes": 885,
+      "comments": 166,
+      "shares": 59,
+      "format": "video + story",
+      "hook_pattern": "Case study with specific revenue numbers + before/after",
+      "posted": "2025-10-07",
+      "topic": "Robot deployment case study, Gerra showcase"
+    }
+  ],
+  "engagement_insights": {
+    "what_works_for_ojas": [
+      "Story-driven posts with specific numbers (885 likes vs 21-30 for thought leadership)",
+      "Case study format with before/after data",
+      "Video content attached to posts",
+      "Client success stories > abstract thesis posts"
+    ],
+    "what_to_improve": [
+      "Posting consistency (currently very sporadic)",
+      "Thesis-level posts need stronger hooks (data moat post only got 21 likes)",
+      "Need more personal story content (highest engagement format)",
+      "Cross-reference trading returns as proof points in every thesis post"
+    ]
+  }
+}

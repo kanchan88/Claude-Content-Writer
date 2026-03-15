@@ -1,0 +1,54 @@
+{
+  "content_pillars": [
+    {
+      "name": "Operational Intelligence from the AI Stack",
+      "mix": "35%",
+      "description": "What I see building robots, collecting data, managing compute, trading equities. Bottlenecks, surprises, patterns that only an operator can see."
+    },
+    {
+      "name": "The Sybilian Thesis / Intelligence Symmetry Break",
+      "mix": "25%",
+      "description": "The 10,000-year hidden constant is ending. What that means for markets, companies, careers. Framework-driven, thesis-level thinking."
+    },
+    {
+      "name": "AI Supply Chain Investing",
+      "mix": "20%",
+      "description": "Where the cycle is starved. What's actually bottlenecked vs. what people think. Bottleneck Investing methodology and proof."
+    },
+    {
+      "name": "Origin Story / Building at 24",
+      "mix": "10%",
+      "description": "SAP exit at 19, O-1A at 21, building now. Not hustle porn — honest observations about what works and what doesn't."
+    },
+    {
+      "name": "The Hyperliquidity / Three Changes",
+      "mix": "10%",
+      "description": "Everything is liquid. Friction was a filter, not just a cost. Direction is the new scarce resource."
+    }
+  ],
+  "posting_cadence": {
+    "frequency": "5x/week",
+    "schedule": [
+      {"day": "Monday", "format": "Thought Leadership (native text)", "focus": "AI Stack Observations"},
+      {"day": "Tuesday", "format": "Carousel / Infographic", "focus": "Sybilian Framework Concepts"},
+      {"day": "Wednesday", "format": "Personal Story / Case Study", "focus": "Origin + Building at 24"},
+      {"day": "Thursday", "format": "Contrarian Take", "focus": "Challenge AI conventional wisdom"},
+      {"day": "Friday", "format": "Lead Magnet / CTA", "focus": "Thesis PDF, fund thesis, sybilian.com"}
+    ]
+  },
+  "core_content_rule": "Content should read like someone who sees the entire system because they're operating inside every layer. Lead with OBSERVATION, use operational experience as PROOF. Lead with THESIS, use trading returns as VALIDATION. Be declarative and concise.",
+  "topics": [
+    "What I see operating across the full AI stack",
+    "The intelligence symmetry break — the 10,000-year hidden constant is ending",
+    "The hyperliquidity — everything is liquid, friction was a filter",
+    "AI supply chain investing — bottlenecks vs perceived bottlenecks",
+    "Building multiple companies at 24 — honest observations"
+  ],
+  "what_industry_gets_wrong": [
+    "AI investing is about picking the best model (it's about supply chain bottlenecks)",
+    "'AI replacing jobs' framing (real disruption is intelligence diverging across nodes)",
+    "Robotics industry obsessed with model architecture (real bottleneck is data)",
+    "Treating friction as purely a cost (friction was also a filter)",
+    "Most AI content written by non-builders"
+  ]
+}

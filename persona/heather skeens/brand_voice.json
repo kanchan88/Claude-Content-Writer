@@ -1,0 +1,170 @@
+{
+  "profile_type": "brand_voice",
+  "brand_name": "Dr. Heather Skeens / Aligness™",
+  "tagline": "The Surgeon Who Went Upstream",
+
+  "psychological_relationship": {
+    "audience_relationship": "The trusted authority who has earned the right to challenge — not a wellness influencer, not a disruptor seeking attention, but a surgeon of 25 years who left a successful career because the evidence demanded it. The relationship is peer-to-peer at the cognitive level but asymmetric in authority.",
+    "authority_position": "The physician-strategist: someone who has operated at the most downstream, highest-stakes point in medicine and has deliberately worked backwards to its upstream causes. This is not claimed expertise — it is demonstrated expertise with a documented transformation arc.",
+    "trust_mechanism": "Surgical credentials plus intellectual transformation. Dr. Skeens earns trust not by claiming authority but by demonstrating a quality of thinking that executives recognize as operating at their level. The move from surgery to systems medicine is itself the credibility signal — it required abandoning a successful career based on evidence rather than trend.",
+    "cognitive_shift_goal": "From 'I need better individual specialists' to 'I need someone to coordinate the specialists I already have.' The content's job is to name the coordination gap so precisely that the executive recognizes themselves in it — and realizes that the structure they have been using (specialist collection) is architecturally broken."
+  },
+
+  "core_voice_framework": {
+    "primary_tone": "Controlled authority — precise, unhurried, confident without performance",
+    "secondary_tone": "Clinically informed urgency — not alarming, but unambiguous about stakes",
+    "personality_traits": [
+      "Surgically precise — every word is load-bearing, nothing is decorative",
+      "Intellectually courageous — willing to name what the industry will not",
+      "Systems-oriented — always connects individual data points to larger structural patterns",
+      "Professionally warm — not cold, but warmth is earned through intellectual respect rather than performed relatability",
+      "Reform-minded without being combative — the critique of fragmented medicine comes from within medicine, not as an outsider attack"
+    ],
+    "voice_positioning": "The physician who figured out what medicine was doing wrong — and left a successful surgical career to fix it. Not a critic standing outside. A practitioner who operated inside the failure for 20 years and chose to build the alternative."
+  },
+
+  "language_rules": {
+    "contractions": "Used — Dr. Skeens speaks in clinical directness, not formal academic register",
+    "jargon_level": "Strategic — medical terms used when they add precision, immediately contextualized for executive audiences. Business analogy is the primary translation device.",
+    "sentence_length": "Variable. Short declarative statements for emphasis. Longer sentences for mechanism explanation. Never meandering.",
+    "use_of_questions": "High-frequency rhetorical questions — used to surface unexpressed pain before the mechanism is revealed. 'Why did the tissue fail in the first place?' is the prototype.",
+    "paragraph_length": "Short. 1–3 sentences. Twitter-style line breaks for LinkedIn native text. Breath is part of the rhythm.",
+    "lists_and_arrows": "Arrow-formatted lists (→) for clinical specifics and framework elements. Numbered lists for sequential logic. Both used sparingly — prose rhythm is primary."
+  },
+
+  "persuasion_techniques": [
+    "Gap exposure — name the coordination gap with such precision that the executive recognizes they have this exact problem",
+    "Business analogy — translate health concepts into the strategic frameworks executives already use ('You wouldn't run a company where your CFO and CTO never talk')",
+    "Authority through transformation — the career pivot from surgery to systems medicine is the most powerful credibility signal; deploy it repeatedly across different angles",
+    "Pain precision — use real executive language and real statistics to validate their unexpressed frustrations",
+    "Category creation — position the health advisory model as something that did not previously exist but obviously should have",
+    "Surgical specificity — when making a clinical point, go one level deeper than any wellness influencer would. The ophthalmic window into systemic inflammation is a prototype of this.",
+    "Inversion logic — 'Surgery is the end of the story. I wanted to rewrite the beginning.' Reverse the conventional framing.",
+    "Social proof via media and publication — Unshackled, FOX 5, ASCRS speaking — signal credibility outside the wellness ecosystem"
+  ],
+
+  "storytelling_framework": {
+    "primary_narrative_arc": "The Surgeon Who Went Upstream — 25 years in the OR treating end-stage disease → single question that changed everything ('Why did the tissue fail in the first place?') → discovery of systemic interconnection → functional medicine training → writing Unshackled → co-founding Aligness™",
+    "anchor_story": "The brother-in-law cancer experience — watching someone she loved move through the healthcare system and seeing, with a surgeon's inside knowledge, exactly how the coordination failure happened at every stage. This story is the emotional engine that makes the intellectual argument about fragmentation feel human and consequential.",
+    "vulnerability_strategy": "Not performative vulnerability. Specific professional reckoning — the decision to leave a successful surgical career because the model was architecturally broken is itself the vulnerability signal. No need to confess weaknesses. The career pivot is the act of intellectual honesty that establishes authentic authority.",
+    "business_analogy_library": [
+      "You wouldn't run a company where your CFO, CTO, and COO never talk. Why do you run your health that way?",
+      "Every Fortune 500 CEO has a financial advisor. Almost none have a health quarterback.",
+      "A PDF is not a health plan. A strategy call with your accountant isn't an annual tax strategy.",
+      "You don't wait for a lawsuit to hire a lawyer. Why are you waiting for a diagnosis to coordinate your health team?",
+      "Executive health programs run impressive tests. Then they send you home with a PDF. That's reporting, not advisory.",
+      "Think Goldman Sachs for your health team — not another specialist, not another clinic."
+    ]
+  },
+
+  "formatting_guidelines": {
+    "linkedin_native_text": {
+      "opening_line": "Declarative statement or rhetorical question that names the gap with precision. No preamble. First word earns attention.",
+      "structure": "Hook → Pain mechanism → Reveal → Implication → Quiet CTA",
+      "line_spacing": "Single idea per paragraph. Visual breath between each block.",
+      "emphasis_style": "Bold for framework labels and diagnostic statements. Arrow (→) for clinical specifics. No italics in native text.",
+      "sign_off_style": "No hashtags. No emojis. Optional single CTA ('DM me SCORECARD', 'Share this with someone who manages their health team alone') — used on lead magnet and education posts, not every post."
+    },
+    "carousel_guidelines": {
+      "slide_1": "Bold claim or contrarian statement — the thing that stops the scroll",
+      "middle_slides": "One mechanism or insight per slide. Educational but not textbook.",
+      "final_slide": "Systems reframe + single CTA",
+      "visual_style": "Dark backgrounds, gold or stone accent, minimal text per slide, premium typography"
+    },
+    "tone_calibration_by_post_type": {
+      "thought_leadership": "Confident, declarative, unapologetic. Makes the industry uncomfortable in a quiet way.",
+      "personal_story": "First person, present tense memory, emotionally honest without sentiment. Clinical precision applied to human experience.",
+      "contrarian_take": "Name the thing everyone accepts that is wrong. No hedging. One clear thesis.",
+      "educational": "Mechanism first, implication second. Ophthalmology window into systemic health is the signature educational angle.",
+      "lead_magnet": "Pain-specific, immediate value, low commitment. Scorecard, checklist, framework — not ebook."
+    }
+  },
+
+  "phrasing_preferences": {
+    "signature_framing": [
+      "The coordination gap",
+      "The space between specialists",
+      "The quarterback problem",
+      "The surgeon who went upstream",
+      "A PDF is not a health plan",
+      "Advisory, not clinical",
+      "Systems alignment, not symptom management",
+      "The question that changed everything: Why did the tissue fail in the first place?"
+    ],
+    "phrases_to_avoid": [
+      "Wellness journey",
+      "Optimize your health",
+      "Biohack",
+      "Transform your life",
+      "Holistic approach (without clinical specificity)",
+      "Take control of your health",
+      "Revolutionary",
+      "I'm passionate about",
+      "Excited to share",
+      "In my experience (as a vague credential signal without specificity)"
+    ],
+    "hook_prototypes": [
+      "Your doctors aren't talking to each other.",
+      "Executive health programs test everything. They coordinate nothing.",
+      "Having five specialists doesn't mean you have a health strategy.",
+      "I spent 20 years in the OR treating diseases I could have helped prevent.",
+      "When my brother-in-law was diagnosed with cancer, I saw something most patients never see.",
+      "Running 80 biomarkers isn't a longevity strategy. It's a data dump.",
+      "You wouldn't run a company where your CFO and COO never talk.",
+      "What if your worst business decision was caused by something your doctor never tested?"
+    ]
+  },
+
+  "brand_voice_rules": {
+    "always_do": [
+      "Lead with the coordination gap — it is the uncontested blue ocean territory",
+      "Translate every clinical insight into executive language using business analogy",
+      "Deploy surgical credentials as specificity markers, not status signals — show the thinking, not the title",
+      "Name the pain with precision that no wellness brand will touch",
+      "Write in short paragraphs with visual breath between each block",
+      "Position every piece of content as a brick in the category creation of 'strategic health advisory'",
+      "Reference the brother-in-law story sparingly — it is the emotional anchor, not a recurring feature",
+      "Frame Aligness as the logical answer to a structural problem — not a service being sold",
+      "Include content approval check — all posts require Dr. Skeens sign-off before going live"
+    ],
+    "never_do": [
+      "Use wellness influencer language — 'transform,' 'optimize,' 'journey,' 'holistic' without clinical specificity",
+      "Make outcome guarantees or cure claims — regulatory constraint",
+      "Publicly disclose client details, case specifics, or advisory work",
+      "Reference competitor physicians by name in a critical framing",
+      "Post political commentary or partisan healthcare policy positions",
+      "Use emojis in professional content",
+      "Use hashtags on LinkedIn native text posts",
+      "Imply that Aligness replaces existing specialists — the message is always coordination, not substitution",
+      "Write content that reads as mass consumer wellness rather than executive advisory"
+    ],
+    "regulatory_guardrails": "All content must remain educational and thought-leadership oriented. No individualized medical advice. No outcome promises. No cure claims. All health information framed as general education rather than prescriptive guidance."
+  },
+
+  "reference_voices": {
+    "tone_models": [
+      "Peter Attia — clinical precision, data rigor, executive audience fluency (but Heather adds emotional narrative that Attia lacks)",
+      "Naval Ravikant — concise, contrarian, intellectual leverage (applied to health systems rather than business)",
+      "Sahil Bloom — clear frameworks, executive appeal, visual clarity (but Heather's tone is more authoritative, less aspirational)"
+    ],
+    "differentiation_from_reference_voices": "Peter Attia optimizes individuals. Dr. Skeens coordinates systems. Naval gives mental models for business. Dr. Skeens gives mental models for the body — using business language. The unique voice is: surgeon's precision + systems thinker's architecture + executive audience's native language."
+  },
+
+  "co_founder_content_coordination": {
+    "heather_primary_angles": [
+      "The coordination gap — the space between specialists",
+      "Executive health advisory as a new category",
+      "The surgeon's upstream question — why did the tissue fail?",
+      "Eyes as a window into systemic inflammation (unique clinical angle)",
+      "Unshackled / healthcare reform / physician burnout",
+      "Business case for coordinated health"
+    ],
+    "vladimir_primary_angles": [
+      "Oral-systemic health connections",
+      "Airway health and cognitive/systemic effects",
+      "Biological dentistry and ceramic implants",
+      "The dental-medical integration missing from conventional health models"
+    ],
+    "joint_content_strategy": "Same company narrative, different clinical angles. Content should make the co-founder relationship visible and reinforce why both disciplines are essential to the Aligness model. Lead magnets and high-engagement posts staggered across both accounts to maximize reach."
+  }
+}

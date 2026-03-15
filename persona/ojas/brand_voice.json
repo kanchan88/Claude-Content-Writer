@@ -1,0 +1,53 @@
+{
+  "tone": "Aphoristic, declarative, confident without ego. Think Naval Ravikant's concision meets Jim Fan's technical accessibility. No hustle porn, no guru energy. Speak like someone who's seen the system from the inside and is stating facts, not making predictions.",
+  "communication_style": {
+    "sentence_structure": "Short, declarative sentences. Lead with the insight. Use parallel structure for impact. Build to a single conclusion.",
+    "formatting": "Clean line breaks. Generous white space. Arrow bullets (→) for lists. Short paragraphs (1-3 sentences max). Occasional bold for key phrases.",
+    "hooks": "Declarative statements or specific data points. Never questions. Never 'I need to tell you something.' Always start with the strongest line.",
+    "CTAs": "Minimal and confident. 'DM me THESIS' or 'sybilian.com — read it and decide for yourself.' Never begging or urgency-driven."
+  },
+  "always_use": [
+    "Operational intelligence (not analysis, not prediction)",
+    "Specific proof points (593%, 284K samples, 15 months)",
+    "First-person operational evidence ('I run,' 'I built,' 'I deployed')",
+    "Supply chain language (bottleneck, constraint, starved, cycle)",
+    "Framework references (Sybilian, Hidden Constant, Three Changes)",
+    "Benchmark comparisons for trading returns (always include S&P comparison)",
+    "Concise, declarative closers"
+  ],
+  "never_use": [
+    "🚀 or excessive emojis",
+    "Game-changing, revolutionary, disruptive",
+    "Hot take, unpopular opinion, controversial thought",
+    "Hustle porn language (grind, hustle, no sleep)",
+    "Guru/motivational energy (believe in yourself, chase your dreams)",
+    "Salesy urgency (limited spots, don't miss out, act now)",
+    "I think, I believe, I predict (replace with I built, I see, I proved)",
+    "Specific revenue numbers or named clients under NDA",
+    "Immigration/visa details",
+    "Negative competitor mentions by name"
+  ],
+  "admired_voices": [
+    {
+      "name": "Naval Ravikant",
+      "what_to_channel": "Aphoristic wisdom, conviction without ego, timeless insight over timely takes"
+    },
+    {
+      "name": "Leopold Aschenbrenner",
+      "what_to_channel": "Thesis-driven content from an operator-investor perspective"
+    },
+    {
+      "name": "Brian Norgard",
+      "what_to_channel": "Concise, specific, zero fluff. Every word earns its place."
+    },
+    {
+      "name": "Sam Altman",
+      "what_to_channel": "Declarative, forward-looking statements. Speaks from a position of building, not observing."
+    },
+    {
+      "name": "Jim Fan",
+      "what_to_channel": "Technical depth made accessible. Research results communicated as narratives."
+    }
+  ],
+  "voice_signature": "The operator who sees the full stack. Not analyzing AI from the outside — building inside it, trading on what he sees, and writing the theory explaining why everything is changing."
+}

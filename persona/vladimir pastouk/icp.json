@@ -1,0 +1,124 @@
+{
+  "profile_type": "ideal_customer",
+  "icp_name": "Dual ICP — Executive Health Advisory (Aligness) + Dental Professional Training (Glossodontics)",
+  "profile_purpose": "Inform content creation, lead magnet design, and advisory/training positioning across both business units",
+
+  "primary_icp_aligness": {
+    "segment_name": "The Executive with the Oral-Systemic Blind Spot",
+    "description": "High-performing executive, founder, or PE partner who has invested significantly in health optimization — functional medicine, executive physicals, biohacking — but whose health team has never included someone who understands the mouth-body connection. Their brain fog, disrupted sleep, and chronic fatigue have a systemic oral driver that no one has identified because no one thought to look.",
+    "income": "$500K–$5M+ annually",
+    "age_range": "38–58",
+    "primary_pain": "A health team of excellent siloed specialists that has never evaluated their airway, tongue function, or oral-systemic inflammation as contributors to performance decline",
+    "vladimir_specific_entry_point": "Brain fog or sleep disruption that cannot be explained by existing diagnoses — and that no one has connected to structural oral drivers. The CPAP that doesn't work. The fatigue that persists despite perfect sleep hygiene. The inflammation that no supplement stack resolves."
+  },
+
+  "secondary_icp_glossodontics": {
+    "segment_name": "The Dentist Who Sees the Pattern But Lacks the Framework",
+    "description": "General or biological dentist who has been observing clinical patterns their training never explained — patients with persistent symptoms, tongue-tie presentations in adults, airway drivers behind orthodontic relapse — and who is actively seeking a systematic framework to expand their scope of care into dental-airway functional treatment.",
+    "practice_size": "Solo to small group (1–10 dentists)",
+    "years_in_practice": "5–20 years",
+    "primary_pain": "Seeing the clinical problem clearly but lacking the surgical training, protocol framework, or referral network to address it systematically",
+    "buying_trigger": "A patient case where the outcome pointed unmistakably toward tongue/airway as the driver, and the dentist realized they had no pathway to address it"
+  },
+
+  "cross_segment_demographics": {
+    "executive_audience": {
+      "age_range": "38–58",
+      "income": "$500K+",
+      "location": "US major metros + high-net-worth suburban markets",
+      "roles": ["CEO", "Founder", "PE/VC Partner", "Senior Attorney", "Healthcare Executive", "Professional Athlete"]
+    },
+    "dental_professional_audience": {
+      "age_range": "30–55",
+      "location": "US + international (Vladimir has existing international CE audience)",
+      "roles": ["General Dentist", "Biological Dentist", "Orthodontist", "Pediatric Dentist", "Dental Educator"]
+    }
+  },
+
+  "executive_psychographics": {
+    "identity_roles": [
+      "Performance optimizer who has tried everything and still has unexplained symptoms",
+      "Systems thinker who applies strategic frameworks to every domain — and is frustrated that health doesn't respond to the same logic",
+      "The leader who manages five specialists and is the only person in the room with the full picture"
+    ],
+    "aspirations": [
+      "Resolve the performance floor they cannot break through despite doing everything right",
+      "Have a health team that communicates and coordinates the way their business teams do",
+      "Understand the oral-systemic connection before it becomes a larger health crisis",
+      "Find the one thing everyone else missed"
+    ],
+    "pain_points": [
+      "Brain fog or cognitive slowdown with no diagnosable cause",
+      "Sleep apnea or chronic fatigue that CPAP has not resolved",
+      "Systemic inflammation markers that functional medicine has not been able to reduce to baseline",
+      "Dental and medical care operating in completely separate silos",
+      "Never having been told that their oral health could be driving their systemic symptoms"
+    ],
+    "fears": [
+      "That the explanation for their performance decline has been sitting in plain sight and nobody thought to look",
+      "That their brain fog will continue to degrade decision-making quality at the worst possible time",
+      "That a coordination failure between their specialists will eventually produce a serious outcome"
+    ],
+    "belief_obstacles": [
+      "Dentistry is cosmetic and structural — it does not affect energy, cognition, or systemic health",
+      "If something serious were happening orally, one of their existing doctors would have caught it",
+      "Functional medicine already addresses root causes — they do not need another practitioner type"
+    ],
+    "trust_triggers": [
+      "Clinical specificity — explaining the mechanism (airway → oxygen delivery → sleep architecture → brain fog) in enough detail that it cannot be dismissed as wellness marketing",
+      "International credentials — Silver Medal from European Congress of Implantologists, Diplomate ICOI, international lecturing",
+      "Patented technique — signals genuine innovation, not repackaged conventional care",
+      "Aligned co-founder — the fact that an ophthalmologist and surgeon chose to co-found with a dentist is itself a credibility signal",
+      "Glossodontics as category creation — building a training system for other dentists signals a level of expertise that goes beyond clinical practice"
+    ]
+  },
+
+  "dental_professional_psychographics": {
+    "pain_points": [
+      "Dental school never taught airway assessment, tongue-tie identification, or functional orthodontics",
+      "Patients with persistent symptoms that conventional dentistry cannot explain",
+      "No systematic referral network with ENT, sleep medicine, and myofunctional therapists",
+      "No training pathway that integrates all the relevant modalities into one coherent clinical model"
+    ],
+    "aspirations": [
+      "Expand scope of practice into high-demand, differentiated services",
+      "Become the dental provider in their market known for treating the whole patient",
+      "Access a systematic training framework with ongoing case support",
+      "Build referral relationships with ENT, sleep specialists, and functional medicine practitioners"
+    ],
+    "buying_triggers": [
+      "Attending a lecture or conference where the airway-systemic connection is demonstrated clinically",
+      "A patient case that pointed unmistakably toward tongue/airway as the driver",
+      "Seeing a peer in their market gain significant differentiation through airway-focused practice"
+    ]
+  },
+
+  "pain_language_bank": {
+    "executive_voice": [
+      "My CPAP isn't working. I'm still exhausted.",
+      "I've been to every specialist. Nobody has connected the dots.",
+      "I eat clean, exercise 5 days a week, and I'm still foggy by 2pm.",
+      "Nobody told me my tongue could affect my breathing.",
+      "My endocrinologist checked my thyroid. My cardiologist checked my heart. Nobody checked my mouth.",
+      "I don't have time to be my own chief medical officer."
+    ],
+    "data_points": [
+      "People with gum disease have 2-3x the risk of heart attack and stroke (American Heart Association)",
+      "Porphyromonas gingivalis — primary gum disease bacterium — has been found in brain tissue of Alzheimer's patients",
+      "Pro-inflammatory cytokines from the mouth travel through the bloodstream (Nature — Scientific Reports)",
+      "Moderate sleep deprivation impairs cognitive performance as much as being legally intoxicated",
+      "Half of all CEOs get less than six hours of sleep per night (Entrepreneur.com)",
+      "The amygdala becomes 60% more reactive when sleep-deprived",
+      "Only 49% of US primary care doctors communicate with the specialists their patients see"
+    ]
+  },
+
+  "customer_journey": {
+    "executive_awareness": "Encounters Vladimir's LinkedIn content that names an unexplained symptom (brain fog, sleep disruption, fatigue) and attributes it to an oral driver they have never considered",
+    "executive_consideration": "Downloads lead magnet (Mouth-Body Connection guide, Airway Assessment checklist), self-identifies with 3+ items",
+    "executive_decision": "Books strategy call after recognizing that their health team has this specific blind spot and that Aligness is the only model addressing it",
+    "dental_awareness": "Attends a Glossodontics lecture or sees Vladimir's LinkedIn content explaining the clinical pattern they have already been observing in practice",
+    "dental_consideration": "Investigates Glossodontics membership and curriculum",
+    "dental_decision": "Joins Glossodontics for the systematic training framework and ongoing case support"
+  }
+}

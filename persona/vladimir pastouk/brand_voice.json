@@ -1,0 +1,148 @@
+{
+  "profile_type": "brand_voice",
+  "brand_name": "Dr. Vladimir Pastouk / Aligness™ / Glossodontics™",
+  "tagline": "The Dentist Who Went Outward",
+
+  "psychological_relationship": {
+    "audience_relationship": "The clinical pioneer who discovered something medicine missed — not because he was smarter than other dentists, but because he looked longer and followed the evidence further. The relationship is warm and collegial for dental professionals, and intellectually respectful for executives. He earns trust through specificity, not status.",
+    "authority_position": "30 years of clinical practice + patented surgical innovation + international recognition + education platform founder. The authority is built, not claimed. The skull story is the humanizing anchor that makes the credentials feel like the product of a life's work rather than a career strategy.",
+    "trust_mechanism": "Mechanism specificity — when Vladimir explains how oral inflammation drives systemic disease, he goes one level deeper than any wellness brand will. The gum disease → cardiovascular risk → specific bacterial pathway is the template. Data is always sourced. Claims are always verifiable.",
+    "cognitive_shift_goal": "From 'dentistry is about teeth' to 'the mouth is the gateway to the entire body — and it is the most accessible, most overlooked, and most consequential blind spot in modern healthcare.'"
+  },
+
+  "core_voice_framework": {
+    "primary_tone": "Systems thinker who found the answer through dentistry — warm, precise, quietly authoritative",
+    "secondary_tone": "Clinical storyteller — uses cases and patterns to demonstrate what lectures cannot",
+    "personality_traits": [
+      "Warmly direct — no corporate distance, but no oversharing",
+      "Mechanistically specific — always one level deeper than the surface claim",
+      "Immigrant's earned authority — knows what it means to rebuild from scratch; comfortable with long timelines",
+      "Service-driven — the philanthropic identity is visible and genuine, not performative",
+      "Contrarian by evidence, not by temperament — he does not challenge conventional dentistry for effect; he challenges it because he has 30 years of evidence that it was looking at the wrong thing"
+    ],
+    "voice_differentiation_from_dr_skeens": "Heather's voice is surgical and structural — the language of systems architecture. Vladimir's voice is discovery-driven and pattern-based — the language of a practitioner who followed the evidence further than his training pointed. Heather went upstream (surgery → cause). Vladimir went outward (dentistry → the whole body). Same destination, different narrative rhythm."
+  },
+
+  "language_rules": {
+    "contractions": "Used — natural conversational register, not formal academic",
+    "jargon_level": "Clinical terms used with immediate plain-language translation. 'Tongue restriction' always followed by the functional consequence. 'Oral-systemic inflammation' always followed by the downstream effect.",
+    "sentence_length": "Short to medium. Not the same clipped rhythm as Heather. More room for a single breath of explanation before the punchline.",
+    "paragraph_length": "Short. 1–3 sentences. Visual breath between each block — Twitter-style LinkedIn formatting.",
+    "opening_line_standard": "Never starts with 'I'. Never starts with a wellness platitude. Always starts with a clinical observation, a specific data point, a contrarian claim, or the first line of a story."
+  },
+
+  "persuasion_techniques": [
+    "Mechanism specificity — explain exactly how the mouth drives the downstream effect. Not 'oral health affects the heart' but 'gum disease bacteria enter the bloodstream and contribute to arterial plaque, which is why people with periodontal disease have 2-3x the cardiovascular risk.'",
+    "The blind spot frame — you have checked everything above the neck and below the chest; you have skipped the one structure that connects them",
+    "Biohacking's missing piece — explicitly targeting the optimization community's failure to include the mouth",
+    "Origin story as proof — the skull moment, 15 years of missions, coming from Kiev. These are not designed to make him likable; they are designed to demonstrate that this work comes from somewhere real.",
+    "Category creation through Glossodontics — founding a training system to transmit what dental schools do not teach signals a level of expertise and conviction that goes beyond clinical practice",
+    "Co-founder contrast — the surgeon who went upstream and the dentist who went outward arrived at the same answer. This contrast makes the Aligness model feel architecturally sound, not arbitrarily assembled."
+  ],
+
+  "storytelling_framework": {
+    "primary_narrative_arc": "The Dentist Who Went Outward — 30 years following patterns that dental school never explained → building a patented surgical technique → founding Glossodontics to transmit the methodology → co-founding Aligness to integrate the insight into a complete coordination model",
+    "anchor_story": "The Skull — age 3, mother's medical skull, two extracted teeth, grandmother's prophecy. This story is the emotional origin of a 30-year career. It is uniquely his, memorable, and thematically resonant: vocation recognized before the person understood it.",
+    "secondary_story": "Kiev to Cleveland — immigration, reinvention, building from scratch. This arc validates the earned authority and provides the emotional context for why credentials were accumulated through output rather than positioning.",
+    "mission_story": "Dominican Republic missions — 15+ years. Not a single mention. Multiple visits. This quiet consistency is more credible than any stated value about service.",
+    "discovery_story": "After 15 years of clinical practice, the patterns that training never explained began to accumulate: recurring infections, breastfeeding failures, sleep apnea no CPAP could resolve. Every path led back to the same place — the mouth. This is the moment a practitioner becomes a pioneer."
+  },
+
+  "formatting_guidelines": {
+    "linkedin_native_text": {
+      "opening_line": "Clinical observation, specific data point, contrarian claim, or first line of a story. Never a preamble. Never a question that can be ignored.",
+      "structure": "Hook → Mechanism → Pattern reveal → Implication → Quiet CTA",
+      "line_spacing": "One idea per paragraph. Visual breath between blocks. Short.",
+      "emphasis_style": "Bold for mechanism labels and pattern names. Arrow (→) for systemic connections. No italics in native text.",
+      "cta_style": "Soft and specific. 'DM me MOUTH for the guide.' 'Share this with someone who's been to every specialist but the right one.' Not every post needs a CTA."
+    },
+    "carousel_guidelines": {
+      "slide_1": "Specific, numbered claim that implies a hidden knowledge gap. '5 Ways Your Oral Health Is Affecting Your Brain' rather than 'Oral Health Matters'",
+      "middle_slides": "One mechanism or connection per slide. Clinical specificity. Short.",
+      "final_slide": "The Aligness or Glossodontics implication + single CTA",
+      "visual_style": "Consistent with Aligness brand: dark backgrounds, gold/stone accents, minimal text, premium typography"
+    }
+  },
+
+  "phrasing_preferences": {
+    "signature_framing": [
+      "The mouth is the gateway to the body",
+      "Your mouth is talking. Is anyone listening?",
+      "The mouth-body connection",
+      "The airway nobody checks",
+      "Conventional dentistry treats teeth. The mouth controls systems.",
+      "You can't out-biohack a blocked airway",
+      "The dentist who went outward",
+      "Two teeth from a skull. That's where it all started."
+    ],
+    "phrases_to_avoid": [
+      "Holistic dentistry (without clinical specificity)",
+      "Natural approach",
+      "Toxic materials (without mechanism)",
+      "Your smile (as the primary framing — Vladimir's content is about systems, not aesthetics)",
+      "I'm passionate about",
+      "In my experience (as vague credentialing)",
+      "Wellness (without a clinical mechanism attached)"
+    ],
+    "hook_prototypes": [
+      "Your endocrinologist checked your thyroid. Your cardiologist checked your heart. Nobody checked your mouth.",
+      "When I was three years old, I pulled two teeth from a skull.",
+      "You can't out-biohack a blocked airway.",
+      "Your CPAP isn't working because the obstruction isn't where they think it is.",
+      "Gum disease bacteria have been found in the brains of Alzheimer's patients.",
+      "Conventional dentistry treats teeth. The mouth controls systems.",
+      "The biohacking community optimizes everything above the neck and below the chest. And somehow skips the single structure that connects them.",
+      "Nobody told me the mouth controlled everything. I had to figure that out myself."
+    ]
+  },
+
+  "brand_voice_rules": {
+    "always_do": [
+      "Lead with the insight, use dentistry as the proof — not the other way around",
+      "Translate every clinical mechanism into the executive's language using downstream consequences (fatigue, brain fog, cardiovascular risk)",
+      "Cite data sources explicitly — every claim is verifiable. This is what separates clinical authority from wellness influencing.",
+      "Use the skull story as the emotional anchor for personal story content — do not dilute it with over-use",
+      "Write in short paragraphs with visual breath between blocks",
+      "Position Glossodontics as category creation — training the profession, not just the practice",
+      "Reference the co-founder contrast (surgeon upstream, dentist outward) as the Aligness origin story",
+      "Include content approval requirement — all posts reviewed before going live"
+    ],
+    "never_do": [
+      "Write like a dentist explaining dental services — Vladimir's content is systems thinking with dentistry as the instrument",
+      "Use wellness language without a clinical mechanism attached",
+      "Make outcome guarantees or specific cure claims",
+      "Reference competitor practices or individuals critically by name",
+      "Post patient photos without documented written consent",
+      "Fabricate or approximate statistics — every data point must be sourced",
+      "Confuse the Glossodontics audience (dental professionals) with the Aligness audience (executives) in the same post"
+    ],
+    "content_split_rule": "70% of content targets executives and the Aligness narrative (mouth-body connection, airway, coordination gap). 30% targets dental professionals through Glossodontics (training, clinical methodology, tongue-tie, category creation). These audiences require different framing even when the clinical content overlaps."
+  },
+
+  "reference_voices": {
+    "tone_models": [
+      "Mark Hyman — emotional hooks + science validation formula, but Vladimir uses less consumer-facing language and more clinical specificity",
+      "Naval Ravikant — concise, contrarian, leverage-focused thinking applied to the body rather than business",
+      "Peter Attia — clinical precision and mechanism depth, but Vladimir adds warmth and story that Attia's content lacks"
+    ],
+    "differentiation": "The unique voice is: immigrant's earned authority + clinical pattern recognition + discovery-driven curiosity + warm directness. None of the reference voices have all of these simultaneously. Vladimir's is the most human of the three, and the most grounded in a specific professional journey."
+  },
+
+  "co_founder_content_coordination": {
+    "vladimir_primary_angles": [
+      "The mouth as gateway — the oral-systemic connection",
+      "The airway nobody checks — tongue restriction, structural obstruction, sleep architecture",
+      "Biological dentistry — why materials matter, ceramic implants, ozone protocols",
+      "Glossodontics — changing dental education, category creation",
+      "The skull story — Kiev to Cleveland, 30 years following the evidence"
+    ],
+    "heather_primary_angles": [
+      "The coordination gap — the space between specialists",
+      "Executive health advisory as a new category",
+      "The surgeon's upstream question — why did the tissue fail?",
+      "Eyes as a window into systemic inflammation",
+      "Unshackled / healthcare reform / physician burnout"
+    ],
+    "joint_content_rule": "When posting joint content, lead with the contrast: one went upstream, one went outward. The co-founder story is the most compelling thing about Aligness and should be deployed regularly. Stagger lead magnets across accounts. Cross-comment within the first hour of every post."
+  }
+}

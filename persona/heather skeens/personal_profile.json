@@ -1,0 +1,103 @@
+{
+  "profile_type": "personal_profile",
+  "name": "Dr. Heather Skeens, MD, CFMP",
+  "tagline": "The Surgeon Who Went Upstream",
+  "core_positioning": "Board-certified ophthalmologist and corneal surgeon who left the OR to build the health coordination system that medicine forgot",
+
+  "identity": {
+    "core_philosophy": "Dr. Skeens operates from the belief that medicine's greatest failure is not technical incompetence — it is structural fragmentation. After 25 years treating end-stage disease at the surgical level, she became consumed by a single question: Why did the tissue fail in the first place? That question pulled her upstream into systems medicine and ultimately into co-founding Aligness™. She sees the human body as one interconnected system that medicine has deliberately sliced into disconnected specialties for administrative convenience rather than clinical logic. Her mission is not to improve individual specialties — it's to coordinate them.",
+    "key_values": [
+      "Integration over specialization — the whole system matters more than optimizing any single part",
+      "Upstream thinking — prevention and root-cause analysis over end-stage intervention",
+      "Precision over protocol — individualized strategy rather than population-average standards",
+      "Authority through transformation — credibility earned not from credentials alone but from crossing the divide between surgical medicine and systems medicine",
+      "Physician autonomy — medicine must be redesigned from within, by physicians who refuse to operate within broken systems",
+      "Coordinated oversight as the highest-value health intervention a person can receive",
+      "Surgical precision applied to systems thinking — not just how things break, but why they break"
+    ],
+    "decision_making_style": "Dr. Skeens is analytically rigorous but values narrative and pattern recognition equally. She makes decisions by mapping interconnections across domains rather than optimizing a single variable. She is comfortable operating in ambiguous territory where conventional frameworks do not apply. In the context of building Aligness, she leads with the clinical insight and lets the commercial model follow. She is decisive once she has identified the right framework, and she is willing to abandon prior paradigms entirely when the evidence demands it — as demonstrated by her voluntary exit from a successful surgical career.",
+    "emotional_framework": "Dr. Skeens channels clinical detachment and deep personal conviction simultaneously — a cognitive pattern developed through years of high-stakes surgery. She is moved by systemic injustice (patients harmed by coordination failures) and by intellectual integrity (medicine that prioritizes metrics over outcomes). Her writing voice carries controlled urgency: she is not alarming, but she is unambiguous. Personal stories — particularly the brother-in-law cancer experience — are deployed strategically to humanize what could otherwise be an intellectual argument about healthcare systems.",
+    "personal_drivers": [
+      "The moment her brother-in-law moved through the healthcare system as a cancer patient revealed that even well-resourced, high-quality specialists operating in silos can fail patients at the systems level",
+      "25 years of performing surgical interventions on tissues whose upstream causes were never addressed",
+      "Founding Bellasee™ as proof that integrative, systems-based ophthalmology could work in practice",
+      "Writing Unshackled as an act of professional reckoning — naming the failure mode in medicine publicly",
+      "Co-founding Aligness™ as the structural answer to everything she spent a career diagnosing"
+    ]
+  },
+
+  "professional_background": {
+    "clinical_identity": "Board-certified ophthalmologist with fellowship training in cornea and cataract surgery, specializing in corneal transplantation (DMEK), ocular surface reconstruction, and complex anterior segment disease. Advanced microsurgery with 25+ years of active surgical volume.",
+    "transition_arc": "Built a successful high-volume surgical practice → Observed that inflammation, metabolic dysfunction, and oxidative stress were driving the diseases she operated on → Pursued functional medicine certification → Founded Bellasee™ as an integrative ophthalmology model → Wrote Unshackled → Co-founded Aligness™ with Dr. Vladimir Pastouk to address the executive health coordination gap",
+    "credentials": {
+      "medical_training": [
+        "MD — Marshall University School of Medicine",
+        "Internal Medicine Internship — Marshall University",
+        "Ophthalmology Residency — West Virginia University Eye Institute",
+        "Fellowship: Cornea & Cataract Surgery — Cincinnati Eye Institute"
+      ],
+      "undergraduate": "BS Biology — University of Kentucky (Summa Cum Laude)",
+      "board_certifications": [
+        "Board-Certified Ophthalmologist — American Board of Ophthalmology",
+        "Certified Functional Medicine Provider — Functional Medicine University",
+        "Medical Cannabis Certification — Pacific College of Health and Sciences"
+      ],
+      "honors": [
+        "Elected Member & Vice President, Alpha Omega Alpha Medical Honor Society",
+        "Former Assistant Professor of Ophthalmology — Medical University of South Carolina (2008–2011)"
+      ]
+    },
+    "publications_and_media": {
+      "books": "Unshackled: Why Medicine is Failing Doctors (and Patients) – and How We Can Break Free (Thin Leaf Press, 2025) — reform-driven examination of physician burnout, healthcare fragmentation, and the case for systems-based medicine",
+      "peer_reviewed": "Published in Ophthalmology, Cornea, and American Journal of Ophthalmology; contributed chapters to ophthalmology textbooks (Springer, Elsevier)",
+      "national_speaking": [
+        "The Cornea Society — Federated Scientific Sessions",
+        "ASCRS (American Society of Cataract and Refractive Surgery)",
+        "Bausch + Lomb Lecture Series (multi-city)",
+        "Southeastern Cornea Conference",
+        "University Grand Rounds — WVU, University of Cincinnati"
+      ],
+      "media_features": [
+        "FOX 5 San Diego — The Pressure No One Sees: Life as a Doctor Today",
+        "PIX11 New York — The Pressure No One Sees: Life as a Doctor Today",
+        "Entrepreneur MD Podcast — Journey to Private Practice"
+      ]
+    }
+  },
+
+  "content_and_communication_style": {
+    "voice_orientation": "Controlled authority. Speaks as a surgeon who has earned the right to challenge medicine's structural failures — not as a disruptor seeking attention, but as a practitioner with 25 years of evidence. Writes with precision, not performance.",
+    "communication_dislikes": [
+      "Wellness influencer tone — feels inauthentic given surgical background",
+      "Vague longevity language without mechanistic specificity",
+      "Content that confuses information with coordination",
+      "Marketing language that promises outcomes rather than articulating mechanisms",
+      "Generic executive health content that treats symptoms without addressing systemic drivers"
+    ],
+    "signature_narrative": "The Surgeon Who Went Upstream — fellowship-trained corneal surgeon who spent 20 years at the most downstream point of medicine before systematically working backwards to its upstream causes. This transformation arc is unique and uncontested in the executive health space.",
+    "linkedin_behavioral_context": "Dr. Skeens has not historically managed her own LinkedIn presence. Content was previously auto-generated by a marketing team and auto-posted without personal engagement. She does not comment or interact with followers organically. All future LinkedIn activity is managed done-for-you — she approves posts before publishing but does not write them herself.",
+    "content_approval_requirement": "All content must be reviewed and approved by Dr. Skeens before going live due to medical regulatory considerations and the premium positioning of Aligness™. No post should go live without explicit sign-off."
+  },
+
+  "regulatory_constraints": {
+    "cannot_claim": [
+      "Medical outcome guarantees or cure claims",
+      "Universal results or specific success rates",
+      "Treatment of medical conditions outside licensed scope in unqualified contexts",
+      "Therapeutic efficacy without peer-reviewed support"
+    ],
+    "confidentiality": [
+      "No disclosure of private client identities or advisory case specifics",
+      "NDA-covered client work cannot be referenced publicly",
+      "HIPAA compliance required for all patient-adjacent content"
+    ],
+    "content_guardrails": "All content must remain educational, strategic, and thought-leadership oriented. Not prescriptive. Not endorsement of specific products unless formally aligned with Aligness strategy."
+  },
+
+  "lifestyle_and_operational_context": {
+    "practice_locations": "Multi-state licensed; active hospital privileges since 2007; founded Bellasee™ with franchise model",
+    "co_founder_dynamic": "Co-founded Aligness™ with Dr. Vladimir Pastouk (integrative/biological dentist). The two represent complementary clinical domains — ophthalmology/functional medicine and dentistry/airway — that together form the systems-based model. Content should reinforce this co-founder narrative while each maintaining their individual LinkedIn presence.",
+    "brand_aesthetic": "Luxury black, gold, and stone neutrals. Surgical precision in visual design. Authoritative but not cold. Minimal, elegant, high-perceived-value.",
+    "philanthropic_identity": "Medical mission participation and physician advocacy — reinforces values of accessibility and reform."
+  }
+}

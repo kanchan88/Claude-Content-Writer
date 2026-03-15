@@ -1,74 +1,17 @@
+[
+  {
+    "id": 1,
+    "prompt": "Create a high-impact 'Tactical Dashboard' infographic that breaks down a complex topic into actionable modules. Layout: A structured 6-box grid (2 rows, 3 columns) designed for maximum scannability. Header: A high-contrast, full-width top banner with a bold, benefit-driven title: '[Major Achievement] in [Timeframe] using [System]'. Visual Language: Use a 'Glassmorphism' or 'Flat UI' card style for each module with subtle drop shadows and rounded corners. Typography: Use a bold sans-serif for headers and a medium-weight sans-serif for body text to ensure readability on mobile. Module Content: Each card must contain: 1. A bold category title. 2. A cohesive icon set (consistent stroke weight). 3. 3-5 concise, action-oriented bullet points starting with verbs. 4. A 'Micro-Proof' element—this could be a tiny stylized screenshot, a mini-line graph, or a row of small user avatars. Bottom Bar: Include a professional branding strip with a circular profile image, a clear call-to-action (CTA) like 'Follow for more [Topic] insights', and a 'Repost' icon to drive engagement. Color Palette: Choose 1 primary brand color (e.g., Cobalt Blue, Forest Green) used for headers and accents, set against a clean, light-grey or white background for high contrast."
+  },
+
+
+  {
+    "id": 2,
+    "prompt": "Create a 'Strategic Hierarchy' infographic that visualizes a multi-step journey or system. Layout: A central vertical funnel or pyramid that divides a concept into 3-4 distinct levels of depth. Visual Flow: The graphic should use a 'Top-Down' logic, moving from broad/high-level concepts at the top to specific/actionable results at the bottom. Tiers: Each tier should be color-coded using a gradient (e.g., Deep Purple to Bright Orchid) to represent progression. Callout Architecture: To the side of each tier, place a floating, rectangular callout box with a dashed or dotted border. Inside each box: 1. A header defining the stage. 2. A small, illustrative icon. 3. 3-4 bullet points explaining the 'How-to' for that specific level. Summary Section: Below the main diagram, include a 'Logic Key'—a horizontal box containing 3 quick icons and 1-sentence takeaways that summarize the core philosophy (e.g., 'Step A leads to Step B'). Footer: A sleek, professional banner containing a headshot, a website/handle URL, and a large 'Repost' arrow button with a contrasting color to grab attention. Aesthetic: Minimalist, premium, and data-driven, avoiding clutter by utilizing ample white space between the central diagram and the callout boxes."
+  },
+
+
 {
-  "id": 5,
-  "title": "9 Brutal Truths — LinkedIn Infographic",
-  "prompt": "Portrait orientation LinkedIn infographic, 1080x1350px. Background: deep navy (#0d1b2a). At the very top, left-aligned: a small label in electric blue monospace uppercase with letter-spacing: 'LINKEDIN GROWTH — 2026 EDITION' — thin, quiet, sets context. Below it, a bold white headline in condensed sans-serif spanning nearly full width, two lines: '9 Brutal Truths About Why Your Content Isn't Growing Your Business' — the word 'Brutal' in electric blue, everything else white. Beneath the headline, one line of small gray subtext: 'Most people know these. Almost nobody acts on them.' A thin electric blue horizontal rule separates the header from the grid. Below: a perfect 3x3 grid of 9 equal cards, each card in dark charcoal (#161f2e), 8px rounded corners, subtle 1px border in (#1e3a5f). Thin gutters between cards. Each card has: top-left — a small flat minimal line-style icon in electric blue (no fill, 2px stroke weight); top-right — a number (01 through 09) in tiny gray monospace. Below the icon: a short bold white headline in 2 lines max. Below that: 2 lines of small (#9aafc4) light-blue-gray supporting text, honest and specific — not motivational fluff. Card 01 — Icon: a megaphone with a tiny cross through it. Headline: 'Your hook is an announcement, not a tension.' Subtext: 'Nobody cares what you're sharing. They care why it matters to them right now.' Card 02 — Icon: a person silhouette with a question mark. Headline: 'You're writing for everyone, which means no one.' Subtext: 'One reader. One problem. One post. Specificity is reach.' Card 03 — Icon: a clock with an arrow looping back. Headline: 'You post, then vanish for 6 days.' Subtext: 'The algorithm rewards consistency. Your audience rewards reliability.' Card 04 — Icon: a bar chart with a flat line at the bottom. Headline: 'You measure likes instead of pipeline.' Subtext: 'Vanity metrics feel good. Booked calls pay rent.' Card 05 — Icon: a document with a recycling symbol. Headline: 'You create new content instead of remixing what worked.' Subtext: 'Your best post from 6 months ago? 80% of your audience never saw it.' Card 06 — Icon: a speech bubble with ellipsis inside, no reply bubble. Headline: 'You don't reply to comments for the first hour.' Subtext: 'The comment section is the second piece of content. You're leaving it blank.' Card 07 — Icon: a light bulb with an X. Headline: 'Your insight is the setup, not the payload.' Subtext: 'You explain what happened. You never say what it means. That gap is where trust lives.' Card 08 — Icon: a funnel with a broken bottom. Headline: 'No CTA, no next step, no reason to follow.' Subtext: 'Every post is a door. Most of yours have no handle.' Card 09 — Icon: a mirror / reflection. Headline: 'You write to impress your peers, not help your buyers.' Subtext: 'Industry insiders like it. Decision-makers scroll past it. Pick your audience.' Bottom of the poster: a thin electric blue rule, then left-aligned small white text: 'Save this. Audit your last 5 posts against it.' Right-aligned: a small white logo mark or handle placeholder. Overall feel — premium dark SaaS dashboard meets editorial intelligence. No gradients, no glow effects, no decorative noise. Every element earns its place.",
-  "cards": [
-    {
-      "number": "01",
-      "icon": "megaphone with a tiny cross through it",
-      "headline": "Your hook is an announcement, not a tension.",
-      "subtext": "Nobody cares what you're sharing. They care why it matters to them right now."
-    },
-    {
-      "number": "02",
-      "icon": "person silhouette with a question mark",
-      "headline": "You're writing for everyone, which means no one.",
-      "subtext": "One reader. One problem. One post. Specificity is reach."
-    },
-    {
-      "number": "03",
-      "icon": "clock with an arrow looping back",
-      "headline": "You post, then vanish for 6 days.",
-      "subtext": "The algorithm rewards consistency. Your audience rewards reliability."
-    },
-    {
-      "number": "04",
-      "icon": "bar chart with a flat line at the bottom",
-      "headline": "You measure likes instead of pipeline.",
-      "subtext": "Vanity metrics feel good. Booked calls pay rent."
-    },
-    {
-      "number": "05",
-      "icon": "document with a recycling symbol",
-      "headline": "You create new content instead of remixing what worked.",
-      "subtext": "Your best post from 6 months ago? 80% of your audience never saw it."
-    },
-    {
-      "number": "06",
-      "icon": "speech bubble with ellipsis inside, no reply bubble",
-      "headline": "You don't reply to comments for the first hour.",
-      "subtext": "The comment section is the second piece of content. You're leaving it blank."
-    },
-    {
-      "number": "07",
-      "icon": "light bulb with an X",
-      "headline": "Your insight is the setup, not the payload.",
-      "subtext": "You explain what happened. You never say what it means. That gap is where trust lives."
-    },
-    {
-      "number": "08",
-      "icon": "funnel with a broken bottom",
-      "headline": "No CTA, no next step, no reason to follow.",
-      "subtext": "Every post is a door. Most of yours have no handle."
-    },
-    {
-      "number": "09",
-      "icon": "mirror / reflection",
-      "headline": "You write to impress your peers, not help your buyers.",
-      "subtext": "Industry insiders like it. Decision-makers scroll past it. Pick your audience."
-    }
-  ],
-  "design": {
-    "dimensions": "1080x1350px",
-    "orientation": "portrait",
-    "background": "#0d1b2a",
-    "card_background": "#161f2e",
-    "card_border": "#1e3a5f",
-    "accent_color": "#electric blue",
-    "subtext_color": "#9aafc4",
-    "card_border_radius": "8px",
-    "icon_style": "flat minimal line-style, no fill, 2px stroke",
-    "effects": "no gradients, no glow, no decorative noise",
-    "feel": "premium dark SaaS dashboard meets editorial intelligence"
-  }
-}
+  "id": "3",
+  "prompt": "Portrait orientation LinkedIn infographic (1080x1350px). The overarching aesthetic is a premium dark SaaS dashboard combined with analytical editorial intelligence, ensuring every element is functional with no decorative noise, gradients, or glows. Background color is deep navy (#0d1b2a). At the very top, left-aligned, is a small label in electric blue monospace uppercase with letter-spacing that reads: 'LINKEDIN GROWTH — [YEAR] EDITION' (thin, quiet, setting context). Below it is a bold white main headline in condensed sans-serif that spans nearly the full width over two lines: '9 Brutal Truths About Why Your Content Isn't Growing Your Business' (with the word 'Brutal' in electric blue, all other words in white). Beneath the headline, include one line of small gray subtext: 'Most people know these. Almost nobody acts on them.' A thin electric blue horizontal rule separates this header section from the main content grid. The main content is a perfect 3x3 grid containing 9 equal cards, each with dark charcoal background (#161f2e), 8px rounded corners, and a subtle 1px border (#1e3a5f), separated by thin gutters. Every card in the grid contains: in the top-left, a small flat minimal line-style icon in electric blue (no fill, 2px stroke weight); in the top-right, a number (01 through 09) in tiny gray monospace. Below the icon is a short bold white headline (max 2 lines). Below the headline are 2 lines of small light-blue-gray (#9aafc4) supporting subtext that is honest and specific rather than motivational fluff. At the bottom of the poster is a thin electric blue rule, then left-aligned small white text: 'Save this. Audit your last 5 posts against it.', and right-aligned is a small white logo mark or handle placeholder.",
+}]

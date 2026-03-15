@@ -53,7 +53,7 @@ Navigate to `persona/{persona_name}/{post_type}/` and read ALL files present. Th
 | `linkedin_post_generator_prompt.md` | The core system prompt defining how to write this post type - follow its instructions precisely |
 | `linkedin_post_examples.md` | Reference examples showing the style, structure, and quality bar for this post type |
 | `hooks.txt` | Proven hook patterns and examples to draw inspiration from |
-| `hook_strategy.md` | Deep strategy guide on crafting hooks - psychology, archetypes, formatting rules |
+| `hook_strategy.md` | Deep strategy guide on crafting hooks (note: the master version lives at root `hook_strategy.md` — always use that one) |
 | `twitter_post_examples.md` | Cross-platform examples (reference only, adapt for LinkedIn format) |
 | `twitter_post_generator_prompt.md` | Cross-platform prompt (reference only) |
 
@@ -68,21 +68,117 @@ Optionally also ask:
 - Any specific story, experience, or data point to include
 - Any particular ICP segment to target (reference segments from `icp.json`)
 
+### Step 5b: Guardrail Verification (MANDATORY — Do NOT Skip)
+
+Before generating any copy, explicitly check `brand_voice.json` for guardrails. Different personas use different guardrail structures. Extract and confirm ALL of the following that exist:
+
+| Guardrail Type | Common Keys to Check |
+|----------------|---------------------|
+| **Banned language** | `never_use`, `never_do`, `positioning_guardrails.never_use` |
+| **Required language** | `always_use`, `always_do` |
+| **Regulatory/compliance** | `regulatory_guardrails`, `content_disclaimers` |
+| **Content rules** | `content_split_rule`, `tone_constraints` |
+
+**Verification process:**
+1. **List out** every `never_use` / `never_do` item found — these are hard blockers. If no guardrails exist for this persona, note that explicitly and proceed with caution using general best practices.
+2. **List out** every `always_use` / `always_do` item found — these must appear in the final copy.
+3. **List out** any regulatory or compliance guardrails — these override all other considerations.
+4. **Confirm to the user:** Display a brief guardrail summary (e.g., "Found 9 banned phrases, 7 required patterns, 1 regulatory rule") before proceeding to generation.
+
+**If `brand_voice.json` is missing or has no guardrail sections:** Warn the user — "No guardrails found for this persona. Proceeding without language constraints. Consider adding guardrails to `brand_voice.json`."
+
+### Step 5c: Hook Engineering (MANDATORY — Do NOT Skip)
+
+**The hook is the single most important element of any LinkedIn post.** 80% of effort goes here. You MUST complete this step before writing any post content.
+
+#### 5c.1: Read the Hook Strategy File
+
+**Every single time**, re-read the master hook strategy file at the root directory: **`hook_strategy.md`**
+
+This is the single source of truth for all hook engineering across all personas and post types.
+
+**Never write a hook from memory.** Always consult this file fresh before crafting the opening lines.
+
+#### 5c.2: Strategize Line 1 (The Hook)
+
+The hook is the **first line** of the post — the scroll-stopper. Apply these rules from the strategy doc:
+
+1. **Choose an archetype** — Select from the 10 data/proof archetypes (Contrarian Proof, Confession, Invisible Cost, Quiet Truth, Challenge, Reversal, Prediction, Micro-Lesson, Human Truth, Irony) OR the 8 interpretive archetypes (Inversion, Irony, Comparison, Paradox, Reversal, Cultural Mirror, Human Truth, Friction Truth)
+2. **Apply a cognitive lever** — Use one of: Curiosity Gap, Status Risk, Authority Proof, Contradiction, Specificity, or Irony
+3. **Compress ruthlessly** — 8-12 words maximum. One short sentence. Cut all fluff.
+4. **No marketing language** — Never use "revolutionary," "game-changing," "best-in-class." Write like a peer.
+5. **The hook is NOT a summary** — It's a psychological device that creates cognitive dissonance, opens a loop, or threatens status.
+
+#### 5c.3: Strategize Line 2 (The Rehook)
+
+The rehook is the **second line** — it amplifies the hook with speed, scope, urgency, or additional value. It keeps the reader committed after the hook grabbed them.
+
+**Rehook patterns from the strategy doc:**
+- Add proof/scale: "0 manual messages. 0 generic messages. 0 hours wasted."
+- Add scarcity/exclusivity: "(and I probably shouldn't be giving this away for free)"
+- Add contradiction: "Every VP Sales should try it once."
+- Add specificity: "In 27 days, our pipeline velocity doubled — without hiring."
+- Deepen the curiosity gap: Tease the resolution without giving it away
+
+#### 5c.4: Quality Checklist (Must Pass ALL Before Proceeding)
+
+Run these 6 checks on your hook + rehook. If any fail, rewrite before moving to Step 6:
+
+| # | Check | Pass? |
+|---|-------|-------|
+| 1 | Does it open a loop (curiosity gap)? | |
+| 2 | Would it make a VP stop scrolling? | |
+| 3 | Can it be read in one breath? | |
+| 4 | Is it emotionally charged or status-threatening? | |
+| 5 | Does it avoid all marketing clichés? | |
+| 6 | Could it live as a standalone tweet or slide headline? | |
+
+#### 5c.5: Present Hook Options to User
+
+**Before generating the full post**, present **3 hook+rehook combinations** to the user using different archetypes. Format:
+
+```
+**Option A** (archetype: [name], lever: [name])
+Line 1: [hook]
+Line 2: [rehook]
+
+**Option B** (archetype: [name], lever: [name])
+Line 1: [hook]
+Line 2: [rehook]
+
+**Option C** (archetype: [name], lever: [name])
+Line 1: [hook]
+Line 2: [rehook]
+```
+
+Let the user pick or request variations before proceeding to full post generation.
+
 ### Step 6: Generate the Post
 
 Create the LinkedIn post by combining:
 
 1. **Persona voice** - Match the brand_voice.json patterns exactly. Use their language, avoid their guardrails.
 2. **Audience targeting** - Write to the ICP's psychology, pain points, fears, and aspirations from icp.json.
-3. **Post type strategy** - Follow the generator prompt instructions. Use the hook strategy. Reference examples for quality.
-4. **Hook engineering** - This is THE most critical element. Spend 80% of effort here. Use hook archetypes from hook_strategy.md, draw patterns from hooks.txt, study examples, and reference high-performing competitor hooks from `competitor_posts/` for proven patterns.
-5. **Formatting** - Follow LinkedIn formatting best practices from the strategy files (short lines, white space, specific structure per post type).
+3. **Post type strategy** - Follow the generator prompt instructions. Reference examples for quality.
+4. **Hook + Rehook (from Step 5c)** - Use the user's chosen hook+rehook from Step 5c as the opening two lines. Do NOT modify them unless the user asks. The hook engineering is already done — honor it.
+5. **Formatting** - Follow LinkedIn formatting best practices from the strategy files (short lines, white space, specific structure per post type). Use line breaks every 1-2 sentences. Think "Slack, not essay."
 
 **Constraints:**
 - Respect word count limits specified in the generator prompt (e.g., lead magnets: max 250 words)
 - Never use phrases from the `never_use` guardrails in brand_voice.json
 - Always use language patterns from the `always_use` section in brand_voice.json
 - Match the CTA style shown in examples (e.g., "Comment X below" for lead magnets)
+
+### Step 6b: Post-Generation Guardrail Scan (MANDATORY)
+
+After drafting the post, scan it against the guardrails extracted in Step 5b:
+
+1. **Banned language check** — Search the draft for every `never_use` / `never_do` phrase. If ANY match is found, rewrite that section before showing the post to the user.
+2. **Required language check** — Verify the draft includes patterns from `always_use` / `always_do`. Flag any missing required elements.
+3. **Regulatory check** — If regulatory guardrails exist, verify compliance (e.g., no outcome guarantees, no medical advice, educational disclaimers where needed).
+4. **Report to user** — After the post, include a brief guardrail compliance note:
+   - "Guardrail check: PASSED (0 violations, 7/7 required patterns used)"
+   - OR "Guardrail check: 1 violation fixed (removed 'game-changing'), 6/7 required patterns used (missing: benchmark comparisons)"
 
 ### Step 7: Save the Post
 
@@ -126,7 +222,7 @@ The saved file should include:
 
 ### Carousels
 When the user asks to create a carousel for a post (or says "make a carousel"):
-1. Use the `carousel-maker` skill by invoking `/carousel-maker` with the post content
+1. Use the `carousel-maker` skill by invoking `skill/carousel-maker` with the post content
 2. The skill generates a branded multi-slide PDF (1080x1350) ready for LinkedIn/Instagram
 3. **Default to light theme** unless the user specifies otherwise
 4. Save the generated carousel PDF to `persona/{persona_name}/generated_posts/` using the naming convention:
@@ -164,6 +260,9 @@ When the user asks to create a LinkedIn visual, infographic, or single image for
 ```
 Content System/
 ├── CLAUDE.md                          ← This file (AI operating guide)
+├── commands/                          ← Slash command prompts
+│   ├── ideas.md                       ← /idea command - weekly AI GTM research
+│   └── {other_commands}.md            ← Future commands follow same pattern
 ├── persona/
 │   ├── {persona_name}/
 │   │   ├── business_context.json      ← Business model, offerings, positioning
@@ -174,6 +273,8 @@ Content System/
 │   │   │   ├── {post_type}_{YYYY-MM-DD}_{topic}.md       ← Text posts
 │   │   │   ├── {post_type}_carousel_{YYYY-MM-DD}_{topic}.pdf  ← Carousel PDFs
 │   │   │   ├── {post_type}_image_{YYYY-MM-DD}_{topic}.png    ← Generated images
+│   │   ├── ideas/                     ← Weekly idea research output
+│   │   │   ├── ai-gtm-ideas-{YYYY-MM-DD}.md
 │   │   ├── competitor_posts/          ← Competitor research data by date
 │   │   │   ├── competitor_posts_{MM_DD_YY}.json
 │   │   ├── lead_magnets/              ← Lead magnet post resources
@@ -188,6 +289,29 @@ Content System/
 │   │   └── {other_post_types}/        ← Future post types follow same pattern
 │   └── {other_personas}/              ← Additional personas follow same structure
 ```
+
+---
+
+## COMMANDS
+
+### `/idea` — Weekly AI GTM Idea Research
+
+When the user runs `/idea`, follow this workflow:
+
+1. **Identify Persona** — Ask: **"Which persona are you researching ideas for?"** List available personas from `persona/`.
+2. **Load Command Prompt** — Read `commands/ideas.md` for the full research instructions, search queries, and formatting rules.
+3. **Execute Research** — Follow the steps in `commands/ideas.md`:
+   - Search LinkedIn, Twitter/X, and blogs for recent AI GTM content (last 7 days)
+   - Extract the **10 most interesting, actionable, or provocative ideas**
+   - Write a 200-word brief per idea (What / Why it matters / How to apply + Source)
+4. **Save Output** — Save the ideas file to:
+   ```
+   persona/{persona_name}/ideas/ai-gtm-ideas-{YYYY-MM-DD}.md
+   ```
+   Example: `persona/kanchan/ideas/ai-gtm-ideas-2026-03-10.md`
+5. **Present Summary** — Show the user a quick summary of all 10 idea titles so they can pick ones to turn into posts.
+
+**Formatting:** Follow the exact template and rules defined in `commands/ideas.md` (punchy titles, What/Why/How structure, source URLs).
 
 ---
 
@@ -241,13 +365,68 @@ All API keys and credentials are stored in [`keys.md`](keys.md). Reference that 
 
 ---
 
+## POST SELF COMMENTS
+
+After every post is saved, **automatically generate 4 self-comments** and append them below the post content in the saved file. These comments are designed to be posted by the persona as replies to their own post to boost engagement and algorithmic reach.
+
+### The 4 Comment Types (generate all 4, every time):
+
+**1. Personal Angle**
+Share a personal insight, experience, or observation related to the post topic.
+Use `personal_story.json` (if available) to pull authentic details.
+Write as if reflecting on your own clinical or life experience.
+
+**2. Trend / Thought**
+Comment on a broader trend, industry shift, or forward-looking thought connected to the post.
+Position the persona as someone who sees where things are heading.
+
+**3. Science / Data**
+Add a specific scientific fact, research finding, or clinical data point that reinforces the post's message.
+Cite the source where possible. Make it feel like bonus value the reader didn't expect.
+
+**4. Post Value Amplification**
+Expand on one specific point from the post that deserves more attention.
+Frame it as “the part most people will skip over but shouldn't” — pulls the reader back in.
+
+### Comment Rules:
+
+1. Each comment is **2–3 short lines**, well formatted for LinkedIn (line breaks between lines, not a paragraph block)
+2. No emojis unless they fit naturally
+3. Never start with “Great post”, “Well said”, “Totally agree”, or any self-praise
+4. Do NOT repeat the post in different words — each comment must add NEW value
+5. Tone: curious, thoughtful, confident — not salesy
+6. Write as the persona, in first person, matching their `brand_voice.json`
+
+### Saved File Format:
+
+After the post content in the saved `.md` file, append:
+
+```markdown
+
+---
+
+## Self Comments
+
+### 1. Personal Angle
+{comment text}
+
+### 2. Trend / Thought
+{comment text}
+
+### 3. Science / Data
+{comment text}
+
+### 4. Post Value Amplification
+{comment text}
+```
+
 ## KEY RULES
 
 1. **Always ask for persona first, then post type.** Never assume.
 2. **Read ALL context files before writing.** Never generate a post without loading persona + post type files.
-3. **The hook is everything.** 80% of effort goes into the first 1-2 lines.
+3. **The hook is everything.** 80% of effort goes into lines 1-2 (hook + rehook). Always re-read the root-level `hook_strategy.md`, present 3 hook+rehook options to the user (Step 5c), and only then generate the full post. Never write hooks from memory.
 4. **Match the voice exactly.** The post should be indistinguishable from what the persona would write themselves.
-5. **Respect guardrails.** Never use language from the `never_use` lists in brand_voice.json.
+5. **Verify guardrails before and after generation.** Always run Step 5b (pre-generation check) and Step 6b (post-generation scan). Never skip guardrail verification — if `brand_voice.json` has no guardrails, warn the user.
 6. **Save every final post.** Always save to `generated_posts/` with proper naming and metadata.
 7. **Iterate on request.** If the user asks for changes, revise and offer to save the updated version.
 8. **One post at a time.** Complete the full workflow for one post before starting another.

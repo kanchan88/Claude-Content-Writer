@@ -1,0 +1,95 @@
+{
+  "segments": [
+    {
+      "name": "Institutional Investors & Allocators",
+      "description": "Fund managers, family offices, and institutional allocators evaluating AI exposure",
+      "demographics": {
+        "titles": ["Fund Manager", "CIO", "Portfolio Manager", "Partner", "Managing Director"],
+        "income": "$500K+ or managing $50M+ AUM",
+        "age_range": "30-55",
+        "industries": ["Hedge Funds", "Venture Capital", "Family Offices", "Pension Funds"]
+      },
+      "pain_points": [
+        "Can't distinguish durable AI moats from temporary model leads",
+        "AI fund landscape is undifferentiated — 'buying Mag 7 with extra steps'",
+        "Need defensible AI thesis for LP meetings",
+        "Information overload from AI newsletters with declining signal-to-noise",
+        "Missed NVDA/crypto runs, terrified of missing the next structural shift"
+      ],
+      "psychology": {
+        "fears": ["Missing the AI wave", "Deploying capital based on hype", "Explaining AI underperformance to LPs"],
+        "desires": ["Differentiated AI exposure", "Thesis-backed conviction", "Operator-grade signal"],
+        "buying_triggers": ["LP meeting deadline", "Competitor fund launched AI strategy", "Market correction creates entry point"]
+      }
+    },
+    {
+      "name": "AI Infrastructure Operators",
+      "description": "Founders and executives building compute, data, and energy infrastructure for AI",
+      "demographics": {
+        "titles": ["CEO", "CTO", "VP Engineering", "Head of Infrastructure"],
+        "company_size": "10-500 employees",
+        "industries": ["Data Centers", "Cloud Computing", "Energy", "Semiconductor"]
+      },
+      "pain_points": [
+        "GPU waitlists of 6-12 months",
+        "Energy costs threatening unit economics",
+        "Can't find operators who understand both infrastructure AND markets",
+        "Difficulty communicating infrastructure constraints to investors",
+        "Sim-to-real gap destroys deployment timelines"
+      ],
+      "psychology": {
+        "fears": ["Running out of compute/power before hitting scale", "Investor misunderstanding of infrastructure realities"],
+        "desires": ["Peer operator perspective", "Infrastructure-aware investment thesis", "Validation from someone who's done it"],
+        "buying_triggers": ["Scaling bottleneck hit", "Fundraising preparation", "Competitive pressure"]
+      }
+    },
+    {
+      "name": "Senior Technical Leaders at AI Labs",
+      "description": "Research leads and engineering directors at frontier AI companies",
+      "demographics": {
+        "titles": ["Research Scientist", "Engineering Director", "VP Research", "CTO"],
+        "companies": ["Frontier AI labs", "FAANG AI divisions", "Well-funded AI startups"]
+      },
+      "pain_points": [
+        "Models converging — architecture no longer the differentiator",
+        "Data scarcity for specialized domains (robotics, embodied AI)",
+        "Gap between research results and commercial deployment",
+        "Difficulty finding high-quality training data"
+      ],
+      "psychology": {
+        "fears": ["Research becoming commoditized", "Being outpaced by better-resourced competitors"],
+        "desires": ["Unique data sources", "Deployment-tested insights", "Cross-stack perspective"],
+        "buying_triggers": ["Data acquisition needs", "Robotics training data requirements", "Sim-to-real challenges"]
+      }
+    },
+    {
+      "name": "AI Supply Chain Founders",
+      "description": "Founders building companies in data, compute, energy, robotics for AI",
+      "demographics": {
+        "titles": ["Founder", "CEO", "CTO"],
+        "company_stage": "Seed to Series B",
+        "age_range": "22-40"
+      },
+      "pain_points": [
+        "Isolated in one layer of the stack — can't see the full picture",
+        "Difficulty positioning against well-funded incumbents",
+        "Don't know where their layer fits in the broader AI value chain",
+        "Need frameworks to communicate value to investors"
+      ],
+      "psychology": {
+        "fears": ["Building in the wrong layer", "Getting disrupted by upstream/downstream players"],
+        "desires": ["Full-stack perspective", "Peer community", "Framework for strategic positioning"],
+        "buying_triggers": ["Fundraising", "Pivot consideration", "Competitive intelligence needs"]
+      }
+    }
+  ],
+  "off_limits": [
+    "Immigration/visa status",
+    "Personal details",
+    "Specific revenue numbers ($ARR, exact revenue) — use proof points instead",
+    "Point72 as a named customer — reference 'top quant funds' generically",
+    "Positioning Gerra as deploying physical robots to customers (it's a software/data company)",
+    "Politics, religion",
+    "Negative mentions of specific competitors by name"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "profile_type": "business_context",
+  "primary_businesses": [
+    "Aligness™ (Co-Founder) — executive health advisory",
+    "Glossodontics™ (Founder) — dental-airway training system and membership",
+    "Cleveland Center for Integrative Dentistry (Lead Clinician) — biological dental practice"
+  ],
+  "primary_linkedin_focus": "Aligness™ and Glossodontics™ — 70% Aligness executive positioning, 30% Glossodontics dental education",
+
+  "aligness": {
+    "business_name": "Aligness™",
+    "co_founders": ["Dr. Vladimir Pastouk, DMD, ND", "Dr. Heather Skeens, MD, CFMP"],
+    "website_url": "Coming soon (landing page live early 2026)",
+    "industry": "Executive Health Advisory / Integrative Medicine",
+    "business_model": "Private physician-led health advisory integrating surgical medicine, functional medicine, and integrative dental medicine into one coordinated strategy for executives. Ongoing advisory relationship — not episodic clinical visits.",
+    "business_stage": "Pre-revenue launch (brand formed, LLC registered, landing page in development as of Feb 2026)",
+    "category_creation": "Strategic Medical Advisory — a new category that did not previously exist. Not a clinic, not a wellness practice, not an executive physical program. The health equivalent of Goldman Sachs advisory — retained, strategic, coordinated, longitudinal.",
+    "unique_value_proposition": "The only executive health advisory that treats the mouth-body connection as a core clinical domain — integrating biological dentistry into the coordination framework alongside surgical medicine and functional medicine.",
+    "vladimir_specific_value_add": "Dr. Pastouk is the clinical domain that no other executive health model includes. The systemic inflammation, airway obstruction, and oral microbiome drivers that affect executive performance — brain fog, sleep disruption, cardiovascular risk — are invisible to every other model precisely because no physician or functional medicine practitioner has a dentist in the room.",
+    "competitive_differentiation": "Advisory model (ongoing) vs. evaluation model (episodic); dentistry as a core clinical domain (unique); surgeon-level pathology insight + systems medicine + oral-systemic integration; private and confidential."
+  },
+
+  "glossodontics": {
+    "business_name": "Glossodontics™",
+    "founder": "Dr. Vladimir Pastouk, DMD, ND",
+    "website_url": "glossodontics.com",
+    "industry": "Dental Continuing Education / Dental Training Platform",
+    "business_model": "Membership-based training system for dentists. Combines hands-on courses with ongoing membership, case coaching, peer review, and implementation support.",
+    "category_definition": "Comprehensive dental-airway functional care training — the only training system that teaches dentists to treat the mouth-body connection across airway assessment, functional orthodontics, myofunctional therapy, frenectomy, and case staging.",
+    "core_offering": "Training program and membership teaching dentists comprehensive dental-airway functional care including: airway assessment, functional orthodontics (ALF, Myobrace, expanders), myofunctional therapy integration, frenectomy (using patented technique), biological surgical protocols, and systematic case staging.",
+    "unique_asset": "Patented frenectomy technique — the clinical innovation that gives Glossodontics credibility as an original methodology, not a repackaged curriculum.",
+    "target_audience_b2b": [
+      "General dentists seeking to expand into airway and tongue-tie treatment",
+      "Biological dentists wanting a systematic training framework",
+      "ENT and sleep medicine physicians seeking dental collaboration education",
+      "CE event organizers looking for expert speakers on airway and functional dentistry"
+    ],
+    "revenue_model": "Membership fees + course enrollment + speaking/training engagements"
+  },
+
+  "cleveland_center": {
+    "business_name": "Cleveland Center for Integrative Dentistry",
+    "location": "Cleveland, Ohio",
+    "website_url": "ohioholisticdentist.com",
+    "positioning": "One of the leading biological/metal-free practices in the US — delivering ceramic implants, laser and CT-guided surgery, airway appliances, tongue-tie procedures, biological dental surgery, Invisalign, ozone therapy, and dental acupuncture.",
+    "role_in_linkedin_strategy": "Clinical proof platform — the practice provides the real-world validation for Vladimir's thought leadership. Cases, outcomes, and clinical innovation all originate here. LinkedIn content positions the practice as the demonstration of the Glossodontics and Aligness methodologies in action."
+  },
+
+  "brand_assets": {
+    "visual_identity": "Luxury black, gold, and stone neutrals — consistent with Aligness brand. Clinical authority meets executive credibility. Minimalist, premium, not medical-institutional.",
+    "brand_personality": "The systems dentist: clinically authoritative, intellectually curious, globally credentialed, service-driven. Warm but precise.",
+    "co_brand_alignment": "All Aligness content should visually and tonally align with Dr. Skeens' brand. Both profiles should be visually recognizable as co-founders of the same premium advisory."
+  },
+
+  "current_challenges": [
+    "Aligness is a new brand with zero existing digital presence",
+    "LinkedIn profile has been passive — not self-managed, low posting cadence, no personal engagement",
+    "Both businesses (Glossodontics and Aligness) need to be communicated without confusing the audience",
+    "70/30 split (Aligness/Glossodontics) requires careful content architecture to avoid brand blurring",
+    "Regulatory constraints on dental advertising limit explicit outcome claims",
+    "No content currently available for approval workflow — everything is being created from scratch"
+  ],
+
+  "short_term_goals": [
+    "Position Vladimir as a national thought leader in integrative/biological dentistry and executive health",
+    "Generate 35-45 qualified patient and advisory inquiries in 90 days",
+    "Secure 3-5 speaking/podcast invitations through LinkedIn outreach",
+    "Add 400-600 relevant connections (executives, health professionals, dental CE organizers)",
+    "Build email list through lead magnets targeting executive pain points"
+  ],
+
+  "long_term_goals": [
+    "Establish Glossodontics™ as the definitive training platform for dental-airway functional care",
+    "Position Aligness™ as the category leader in executive health advisory",
+    "Scale speaking and CE training nationally and internationally",
+    "Drive high-quality referral network with ENT, functional medicine, and sleep medicine practitioners"
+  ]
+}

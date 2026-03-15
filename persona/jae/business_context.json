@@ -1,0 +1,351 @@
+{
+  "profile_type": "business_context",
+  "business_name": "Avanew.ai (Avatar Studio Platform)",
+  "legal_entity": "Diviner, LLC",
+  "founder_name": "Jae McKinney (Jamie)",
+  "current_location": "New Jersey, USA with global operations",
+  "website_url": "avanew.ai, diviner.com",
+  "industry": "Enterprise AI Infrastructure - Interactive Avatar Systems & Conversational AI",
+  "business_model": "Hybrid B2B Model: High-ticket enterprise services ($5K-$25K) + SaaS subscription platform ($200-$500/month) + revenue-share agency partnerships",
+  "business_stage": "Growth stage with proven revenue ($400K+ in project value) and established enterprise clients across regulated industries",
+  
+  "strategic_positioning": {
+    "category_definition": "Governed Interactive Avatar Infrastructure vs. Generic AI Video Tools",
+    "market_positioning": "The only enterprise-grade platform that transforms avatar creation from months of engineering into 10-minute deployments while maintaining compliance, governance, and audit trails required by regulated industries",
+    "unique_value_proposition": "Avatar Studio is not just an avatar builderâ€”it's a complete governance framework with PromptStudioâ„¢ IDE that makes interactive AI avatars traceable, reproducible, and defensible for enterprises that can't afford compliance risks",
+    "competitive_differentiation": "Enterprise agency partnerships with HeyGen and Tavus + compliance-first architecture + task-performing avatars via SmythOS + WordPress/React plugin deployment + proven $400K case studies in regulated industries"
+  },
+
+  "core_offers": {
+    "flagship_product": "Avatar Studio - Complete platform for building, managing, scaling, and governing interactive AI avatars",
+    "key_components": [
+      "PromptStudioâ„¢ - IDE for designing version-controlled, auditable avatar behavior and conversational logic",
+      "Knowledge Engine - Ingests documents, SOPs, trainings, websites; summarizes and vectorizes for retrieval",
+      "Conversation Engine - Natural dialogue with turn-taking, pacing, interruption handling, expressive speech",
+      "Governance & Audit Layer - Structured version controls, change tracking, deployment governance for regulated environments",
+      "Deployment Layer - WordPress plugin, React component, JS embed, API-based, on-prem/cloud infrastructure",
+      "SmythOS Integration - Enables avatars to perform real tasks (schedule meetings, send documents, query data, trigger actions)"
+    ],
+    "service_offerings": [
+      "Done-For-You (DFY) Avatar Deployment - Full script, build, train, deploy, monitor service including security reviews",
+      "Custom Enterprise Implementation - Tailored avatar solutions for Fortune 500, healthcare, financial services, medical devices",
+      "Compliance Consulting - GRC integration, data governance, regulatory approval processes",
+      "Training & Enablement - Team training on avatar management, prompt engineering, deployment workflows"
+    ]
+  },
+
+  "offer_tiers": {
+    "free": [
+      "14-day freemium trial of Avatar Studio platform",
+      "Basic demo access to sample avatars",
+      "Educational content and thought leadership via LinkedIn"
+    ],
+    "mid_ticket": [
+      "Avatar Studio Plugin Subscription - $200-$500/month for agencies and creators",
+      "Single-use case avatar deployment - $5,000-$10,000",
+      "WordPress/React plugin with core features"
+    ],
+    "high_ticket": [
+      "Enterprise Avatar Systems - $15,000-$25,000 per deployment",
+      "Multi-avatar organizational implementations - $50,000+",
+      "Custom compliance integrations - $25,000-$100,000+",
+      "Fortune 500 consulting and transformation - $100,000+"
+    ],
+    "custom": [
+      "Revenue-share partnerships with agencies and communities",
+      "White-label solutions with ongoing optimization",
+      "Equity participation for strategic enterprise accounts"
+    ]
+  },
+
+  "revenue_streams": [
+    "Enterprise service contracts ($5K-$25K per deployment) - Primary revenue driver with $400K+ proven track record",
+    "SaaS subscription revenue ($200-$500/month recurring) - Scalable passive income from plugin users",
+    "Revenue-share partnerships - Splits on sales generated through agency and community partners",
+    "Compliance consulting - Premium fees for regulatory industries requiring governance frameworks",
+    "Training and enablement - Corporate training programs and implementation workshops",
+    "Strategic partnerships - Equity and revenue-share arrangements with enterprise accounts"
+  ],
+
+  "proven_case_studies": {
+    "total_project_value": "$400,000+ across four months (May-December deployment cycle)",
+    "industries_served": [
+      "Medical Devices - Device support agents, surgical training, equipment demonstrations",
+      "Healthcare Providers - Oncology clinics, pain specialists, home health, specialty care organizations",
+      "Financial Services - Client education, compliance training, product explanations"
+    ],
+    "transformation_outcomes": [
+      "Training became consistent, scalable, and accessible on demand",
+      "Sales enablement shifted from theoretical to real-time practice and reinforcement",
+      "Healthcare providers reduced repetitive patient explanation time",
+      "Non-technical teams can manage avatars independently",
+      "Leadership gained clarity, control, and repeatable governance"
+    ]
+  },
+
+  "target_markets": [
+    "Regulated industries requiring compliance and audit trails (healthcare, financial services, legal)",
+    "Medical device companies needing device support agents and surgical training",
+    "Healthcare organizations (hospitals, clinics, specialty care) requiring patient education at scale",
+    "Fortune 500 enterprises needing organizational AI transformation",
+    "Marketing and AI agencies wanting white-label avatar capabilities",
+    "Corporate training and L&D departments requiring interactive learning systems",
+    "Professional services firms (consulting, legal, accounting) needing client education"
+  ],
+
+  "customer_segments": [
+    {
+      "segment": "Enterprise Healthcare & Medical Devices",
+      "characteristics": "Highly regulated, compliance-focused, need audit trails and data governance",
+      "budget_range": "$15K-$100K+ per implementation",
+      "decision_cycle": "3-6 months with committee approval and security reviews",
+      "key_pain": "Manual training is labor-intensive, inconsistent, and doesn't scale"
+    },
+    {
+      "segment": "Fortune 500 Consulting & Professional Services",
+      "characteristics": "Need strategic intelligence infrastructure and systematic client acquisition",
+      "budget_range": "$25K-$100K+ for organizational transformation",
+      "decision_cycle": "2-4 months with multiple stakeholder involvement",
+      "key_pain": "Knowledge transfer bottlenecks and inability to scale expertise delivery"
+    },
+    {
+      "segment": "Marketing & AI Agencies",
+      "characteristics": "Want turnkey avatar solutions to resell to their clients",
+      "budget_range": "$200-$500/month subscription + revenue-share on deployments",
+      "decision_cycle": "1-2 weeks for subscription, immediate for proven ROI",
+      "key_pain": "Months of development work to build what Avatar Studio provides out-of-box"
+    },
+    {
+      "segment": "Financial Services & Legal Firms",
+      "characteristics": "Extreme compliance requirements, need private data source capabilities",
+      "budget_range": "$20K-$75K for compliant implementations",
+      "decision_cycle": "4-8 months due to regulatory review processes",
+      "key_pain": "Generic AI tools create compliance nightmares; need governed solutions"
+    }
+  ],
+
+  "mission_statement": "To transform how enterprises deploy conversational AI by making interactive avatars governable, compliant, and operationally scalableâ€”turning months of complex engineering into minutes of guided deployment while maintaining the audit trails and security that regulated industries require",
+
+  "vision_statement": "To become the definitive infrastructure layer for interactive AI in every regulated industry, where avatars aren't experimental novelties but governed, traceable digital assets that safely scale human expertise and become the new interface for organizational knowledge transfer",
+
+  "core_values": [
+    "Compliance-first architecture over move-fast-and-break-things approaches",
+    "Governance and traceability as competitive advantages, not bureaucratic overhead",
+    "Enterprise-grade reliability over experimental features that lack production readiness",
+    "Transparent partnerships with fair revenue-sharing over zero-sum vendor relationships",
+    "Practical deployment speed without sacrificing security or compliance standards",
+    "Empowering non-technical teams to own and manage sophisticated AI systems"
+  ],
+
+  "unique_selling_proposition": "Avatar Studio is the only platform that solves the 'last mile' problem of avatar deploymentâ€”taking HeyGen and Tavus avatar engines and wrapping them in the governance, version control, knowledge retrieval, and deployment infrastructure that enterprises actually need to go into production safely",
+
+  "competitive_advantages": [
+    "Enterprise agency partnerships with HeyGen and Tavus founders - direct engineering access and early feature releases",
+    "PromptStudioâ„¢ IDE providing version-controlled, auditable prompt management that regulated industries require",
+    "Proven $400K+ track record across highly regulated industries (medical devices, healthcare, financial services)",
+    "Compliance-first architecture with built-in disclaimers, transcript logging, data routing, and audit trails",
+    "SmythOS integration enabling task-performing avatars that move beyond conversation into action",
+    "Multi-deployment flexibility (WordPress plugin, React component, JS embed, API, on-prem) that competitors lack",
+    "Team of 20+ global specialists (AI engineers, DevOps, full-stack devs, product managers, QA) enabling enterprise delivery",
+    "Founder's deep insurance and regulatory background providing authentic compliance understanding",
+    "White-label capabilities with fair revenue-sharing attracting agency partnerships"
+  ],
+
+  "competitors": {
+    "direct_competitors": [
+      "HeyGen and Tavus (avatar engines) - BUT Jamie is their enterprise partner, not competitor; they endorse his platform",
+      "Generic chatbot builders - Lack visual avatars and compliance frameworks",
+      "Video generation tools - Pre-recorded only, not interactive or conversational"
+    ],
+    "indirect_competitors": [
+      "Traditional consulting firms - Provide strategy but not hands-on implementation",
+      "In-house development teams - Take 6-12 months to build what Avatar Studio provides",
+      "General AI automation agencies - Lack specialized avatar and compliance expertise"
+    ],
+    "competitive_moats": [
+      "HeyGen and Tavus endorse Avatar Studio because it accelerates their customers' success",
+      "No competitors offer comparable governance and compliance infrastructure",
+      "PromptStudioâ„¢ IDE is proprietary intellectual property",
+      "Proven case studies in regulated industries create trust barriers for new entrants"
+    ]
+  },
+
+  "key_partnerships": [
+    "HeyGen - Enterprise agency partnership with direct founder and engineering team access",
+    "Tavus - Enterprise agency partnership with SDK and API integration support",
+    "SmythOS - Agent integration enabling task-performing avatar capabilities",
+    "Global development team - 20+ specialists including AI engineers (India/Hyderabad), DevOps, full-stack developers, Unreal Engine developers (Taiwan)",
+    "Product management - Experienced AI product manager from Hyderabad with extensive backlog and feature roadmap",
+    "Strategic networks - Connections with Fortune 500 decision-makers and Beverly Hills enterprise relationships"
+  ],
+
+  "distribution_channels": [
+    "LinkedIn thought leadership - Primary channel for enterprise awareness and credibility building",
+    "Direct enterprise sales - Consultative selling through demos and compliance discussions",
+    "Agency partnerships - Revenue-share model where agencies resell Avatar Studio to their clients",
+    "Community partnerships - Deals with AI communities (AAA, Liam Ottley's community, etc.) for distribution",
+    "WordPress and React plugins - Self-service SaaS distribution for agencies and creators",
+    "Referral network - Existing enterprise clients referring within their industries"
+  ],
+
+  "tech_stack": [
+    "Avatar Engines: HeyGen and Tavus APIs/SDKs for visual avatar generation",
+    "LLM Infrastructure: Open and closed-source LLM flexibility for conversational intelligence",
+    "Voice Processing: ElevenLabs (AI voice synthesis) and DeepGram (AI transcription)",
+    "Task Execution: SmythOS agent integration for avatar actions beyond conversation",
+    "Knowledge Retrieval: RAG (Retrieval-Augmented Generation) pipelines with vector search",
+    "Platform Deployment: WordPress plugin, React.js plugin, JavaScript embed, API infrastructure",
+    "Development Environment: PromptStudioâ„¢ IDE for prompt lifecycle management",
+    "Infrastructure: Cloud hosting options (AWS, Azure, Google Cloud) plus on-premise deployment capability",
+    "Payment Processing: Mercury banking with Stripe integration and automated revenue-sharing rules",
+    "Compliance Tools: Governance frameworks, audit logging, transcript storage, disclaimer management",
+    "Development Stack: Unreal Engine (for gaming/immersive experiences), Convey (web format conversion)",
+    "Project Management: Product backlog management, release notes, version control systems"
+  ],
+
+  "team_structure": {
+    "leadership": [
+      "Jae McKinney (Founder & CEO) - Former insurance/consulting background, enterprise sales and partnerships",
+      "AI Product Manager (Hyderabad) - Backlog management, feature prioritization, release planning"
+    ],
+    "product": [
+      "10+ AI Engineers - Avatar infrastructure, LLM integration, conversational design",
+      "Data Architects - Knowledge base structuring, RAG pipeline optimization",
+      "Full-Stack Developers - WordPress/React plugins, web deployment infrastructure",
+      "2 Unreal Engine Developers (Taiwan) - Immersive gaming experiences, 3D modeling"
+    ],
+    "operations": [
+      "DevOps Team - Infrastructure management, deployment automation, security",
+      "QA/Testing - Quality assurance, platform stability, compliance verification",
+      "IT Support - Website troubleshooting, technical support for clients"
+    ],
+    "marketing": [
+      "Video Editors/Designers (Philippines) - Content creation, demo videos, visual assets",
+      "Content Strategy - LinkedIn thought leadership, case study development"
+    ],
+    "partnerships": [
+      "Agency Partnership Manager - Revenue-share deal structuring and community outreach",
+      "Enterprise Sales Support - Demo coordination, compliance conversations, security reviews"
+    ]
+  },
+
+  "current_challenges": [
+    "Scaling compliance consulting while maintaining quality and regulatory integrity",
+    "Managing 20+ global team members across time zones with efficient coordination (uses WhatsApp and voice notes)",
+    "Educating market on interactive avatars vs. generic AI video toolsâ€”most don't know this category exists yet",
+    "Balancing enterprise customization needs with productized SaaS offering standardization",
+    "Maintaining thought leadership visibility in crowded AI content space on LinkedIn",
+    "Navigating IRS and financial compliance while scaling multiple revenue streams",
+    "Managing cash flow timing with large enterprise contracts that have 3-6 month payment cycles",
+    "Building brand awareness without revealing too much to existing enterprise clients watching his LinkedIn"
+  ],
+
+  "key_metrics": [
+    "Total project value delivered: $400,000+ (May-December)",
+    "Team size: 20+ global specialists",
+    "Enterprise clients: Multiple Fortune 500 and regulated industry deployments",
+    "Service pricing: $5K-$25K per deployment, up to $100K+ for enterprise transformations",
+    "SaaS pricing: $200-$500/month for plugin subscriptions",
+    "Sales cycle: 1-2 weeks for agencies, 3-6 months for regulated enterprises",
+    "Revenue model: Service revenue + SaaS recurring + revenue-share partnerships",
+    "Partnership structure: Fair splits with AI engineers and agency partners (not stingy on revenue-sharing)"
+  ],
+
+  "short_term_goals": [
+    "Launch Avatar Studio WordPress plugin to market (next month release target)",
+    "Scale LinkedIn presence through content partnership with Aryan Mahajan (2-week intensive campaign)",
+    "Establish agency partnership program with revenue-share model ($100K/month potential)",
+    "Close 3-5 additional enterprise deployments in regulated industries",
+    "Build thought leadership as 'the authority on interactive and immersive AI'",
+    "Systematize demo process and sales collateral for non-technical sales team members",
+    "Document case studies with specific ROI metrics for each industry vertical",
+    "Develop freemium onboarding funnel for plugin users to upgrade to enterprise services"
+  ],
+
+  "long_term_goals": [
+    "Position for strategic acquisition by major consulting or technology enterprise recognizing Avatar Studio IP value",
+    "Achieve $100K+/month predictable recurring revenue from plugin subscriptions",
+    "Become recognized authority in compliance-first interactive AI infrastructure",
+    "Expand into government contracts and public sector deployments requiring highest security standards",
+    "Build Avatar Studio into platform that powers avatars across every regulated industry",
+    "Develop marketplace ecosystem where agencies build specialized avatar solutions on Avatar Studio",
+    "Create GRC platform integrations (Vanta) for automated AI governance and audit workflows",
+    "Establish Avatar Studio as the 'governed layer' between avatar engines and enterprise deployment"
+  ],
+
+  "business_evolution": {
+    "origin_story": "Started with consulting and insurance background, saw opportunity in AI avatar space",
+    "initial_focus": "Custom avatar deployments for enterprise clients in regulated industries",
+    "pivot_moment": "Realized every client needed same governance and compliance infrastructureâ€”decided to productize",
+    "current_phase": "Hybrid model: high-ticket services fund platform development while building SaaS recurring revenue",
+    "next_evolution": "Platform-first with agency partnerships handling services, founder focusing on thought leadership and strategic deals"
+  },
+
+  "financial_context": {
+    "revenue_model": "Hybrid B2B: 60% enterprise services, 30% recurring SaaS (future), 10% revenue-share partnerships",
+    "funding_status": "Bootstrapped with revenue from enterprise deployments funding platform development",
+    "cash_flow_strategy": "Use enterprise service revenue to pay team, fund platform R&D, and cover operational costs",
+    "revenue_sharing_philosophy": "Not stingy with splitsâ€”believes in fair partnerships where people get creative when they're making money",
+    "payment_infrastructure": "Mercury banking with automated revenue-sharing rules, Stripe integration, international wire capabilities",
+    "pricing_strategy": "Premium positioning for services ($5K-$25K), accessible for SaaS ($200-$500), performance-based for partnerships"
+  },
+
+  "regulatory_compliance": [
+    "HIPAA compliance capabilities for healthcare deployments",
+    "SOC 2 compliance pathway for enterprise security requirements",
+    "GRC integration roadmap with platforms like Vanta",
+    "Private data source capabilities for sensitive information",
+    "Audit trail and transcript logging for regulatory review",
+    "Disclaimer and Terms & Conditions enforcement before avatar interaction",
+    "Data retention, deletion, and encryption policy frameworks",
+    "On-premise deployment option for maximum data control"
+  ],
+
+  "brand_assets": {
+    "visual_identity": "Professional, enterprise-grade, trustworthyâ€”not flashy startup but serious B2B infrastructure",
+    "authority_positioning": "The compliance-first avatar infrastructure expert for regulated industries",
+    "thought_leadership_themes": [
+      "Avatars as the new interface for human communication",
+      "Compliance as competitive advantage, not bureaucratic burden",
+      "The governance gap in AI deployment that enterprises can't ignore",
+      "Case studies of avatar transformations in regulated industries"
+    ],
+    "content_pillars": [
+      "Interactive avatar education and market awareness",
+      "Compliance and governance thought leadership",
+      "Enterprise case studies with ROI metrics",
+      "Industry-specific use cases (medical, financial, legal)",
+      "Platform capabilities and feature announcements"
+    ]
+  },
+
+  "ecosystem_strategy": {
+    "platform_layer": "Avatar Studio provides the governed infrastructure",
+    "service_layer": "High-touch enterprise implementations and compliance consulting",
+    "partnership_layer": "Agencies and communities resell with revenue-sharing",
+    "community_layer": "Thought leadership builds awareness and trust",
+    "integration_layer": "HeyGen/Tavus for avatars, SmythOS for actions, GRC tools for governance"
+  },
+
+  "success_factors": [
+    "Founder's regulatory and enterprise background provides authentic compliance credibility",
+    "Enterprise partnerships with HeyGen and Tavus create strategic moat competitors can't replicate",
+    "Proven $400K case studies in regulated industries demonstrate real-world viability",
+    "PromptStudioâ„¢ IDE solves governance problem that generic avatar tools ignore",
+    "Fair revenue-sharing philosophy attracts high-quality agency partners",
+    "Global team structure enables 24/7 enterprise delivery capability",
+    "Hybrid business model (services + SaaS + partnerships) creates multiple revenue streams and reduces risk"
+  ],
+
+  "market_opportunity": {
+    "addressable_market": "Every enterprise that communicates complex knowledge to customers, employees, or partners",
+    "market_size": "Multi-billion dollar opportunity as avatars replace static content, chatbots, and manual training",
+    "growth_drivers": [
+      "Shift from 'click and read' to 'speak and respond' internet interfaces",
+      "Enterprise AI adoption accelerating across all industries",
+      "Regulatory pressure to govern AI systems creating demand for compliant infrastructure",
+      "Remote work and distributed teams increasing need for scalable training and knowledge transfer"
+    ],
+    "competitive_timing": "Early mover advantageâ€”most enterprises don't know interactive avatars exist yet; first to market with governance-first approach"
+  }
+}
